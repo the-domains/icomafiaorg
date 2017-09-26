@@ -1,0 +1,60 @@
+layout_spectrum: 0.9489652119872926
+typography_spectrum: 0.9056468995868938
+color:
+  brandStrength: 0.2514544443139751
+  lightness: 0.6052240095147402
+  saturation: 0.11913864667389062
+  rhythmicContrast: 0.5281157378073191
+  brandColors:
+    - '#7D8A2E'
+    - '#C9D787'
+    - '#FFFFFF'
+    - '#FFC0A9'
+    - '#FF8598'
+analytics:
+  google: UA-107039528-1
+author:
+  name: Mark Vange
+  email: mvange@tokeniq.io
+  url: 'https://icomafia.org'
+name: icomafia.org
+url: 'https://icomafia.org'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: House Rules
+    id: 8a067621-1932-4a19-b737-8e8d51c573f0
+    type: content
+title: ICO Mafia
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3e28fd2-0636-42c9-943d-5364da6efb61.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3e28fd2-0636-42c9-943d-5364da6efb61.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Private discussion group focused on improving the ICO industry
+github: true
