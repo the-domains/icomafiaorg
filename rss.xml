@@ -4,9 +4,16 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Sep 2017 13:43:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Sep 2017 04:52:36 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 27 Sep 2017 13:43:13 GMT</pubDate>
+        <pubDate>Thu, 28 Sep 2017 04:52:35 GMT</pubDate>
+        <item>
+            <title><![CDATA[Hacker Uses Malicious Smart Contract to Trick EtherDelta Users]]></title>
+            <description><![CDATA[<article><img src="https://themerkle.com/wp-content/uploads/shutterstock_679842001.jpg"><h1>Hacker Uses Malicious Smart Contract to Trick EtherDelta Users</h1><p>EtherDelta is quickly becoming one of the go-to solutions when it comes to exchanging ERC20 tokens. In fact, there is no token that can&apos;t theoretically be traded on this platform. Unfortunately, the protocol was targeted by hackers a few days ago, in the form of a malicious code injection.</p></article>]]></description>
+            <link>https://themerkle.com/hacker-uses-malicious-smart-contract-to-trick-etherdelta-users/</link>
+            <guid isPermaLink="false">2767cb10-462a-460e-83f0-9702ae8ae7b3</guid>
+            <pubDate>Thu, 28 Sep 2017 04:52:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Regulated ICOs Arrive: Overstock to Open Exchange for Legal Token Trading - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Regulated ICOs Arrive: Overstock to Open Exchange for Legal Token Trading - CoinDesk</h1><p>Get ready for regulated token trading. Announced today, t&Oslash;, the capital markets arm of Overstock&apos;s blockchain-focused subsidiary Medici, is launching a first-of-its-kind alternative trading system (ATS) that will provide a platform for the exchange of cryptographic tokens categorized in the U.S. as securities.</p><img src="https://media.coindesk.com/uploads/2017/09/confetti-celebration-e1506480689924.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.bloomberg.com/news/articles/2017-09-24/crypto-mania-grips-hong-kong-as-city-looks-for-life-beyond-banks</link>
             <guid isPermaLink="false">db42458c-96fe-418f-9073-f2103ab38708</guid>
             <pubDate>Mon, 25 Sep 2017 23:44:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China blocks WhatsApp]]></title>
-            <description><![CDATA[<article><h1>China blocks WhatsApp</h1><p>China has blocked WhatsApp, security experts confirmed today . Over the past few months, WhatsApp has experienced brief disruptions to service, with users unable to send video chats or photos. Now, even text messages are completely blocked, according to Nadim Kobeissi, an applied cryptographer at Symbolic Software, a Paris-based research firm that also monitors digital censorship in China.</p><img src="https://cdn.vox-cdn.com/uploads/chorus_image/image/56843867/W_RQ.0.jpeg"></article>]]></description>
-            <link>https://www.theverge.com/2017/9/25/16362292/china-whatsapp-censorship-wechat-no-more-texts</link>
-            <guid isPermaLink="false">7094660f-0c67-483d-b8cf-0d0929991b1e</guid>
-            <pubDate>Mon, 25 Sep 2017 23:41:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
