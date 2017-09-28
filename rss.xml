@@ -4,9 +4,16 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Sep 2017 14:39:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Sep 2017 14:40:19 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 28 Sep 2017 14:39:51 GMT</pubDate>
+        <pubDate>Thu, 28 Sep 2017 14:40:17 GMT</pubDate>
+        <item>
+            <title><![CDATA[Most ICOs Fail: Tale of Two Worlds - Hacker Noon]]></title>
+            <description><![CDATA[<article><h1>Most ICOs Fail: Tale of Two Worlds - Hacker Noon</h1><p>The number of Initial coin offerings has surged over the past six months. However, all is not as rosy as it appears. A nuanced assessment of token distribution activity tells a tale of two very...</p><img src="https://cdn-images-1.medium.com/max/1200/1*3cU0lQtIg4Qz94tPEkq2_A.png"></article>]]></description>
+            <link>https://hackernoon.com/most-icos-fail-tale-of-two-worlds-d1ab7625ff66</link>
+            <guid isPermaLink="false">f4fed56d-dbbe-4c1b-baaa-b9a8e71a3280</guid>
+            <pubDate>Thu, 28 Sep 2017 14:40:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Initial coin offerings | ASIC - Australian Securities and Investments Commission]]></title>
             <description><![CDATA[<article><h1>Initial coin offerings | ASIC - Australian Securities and Investments Commission</h1><p>An assessment of what rights are attached to the coins (or tokens) issued under an ICO is the key consideration in relation to assessing the legal status of an ICO. For this purpose what is a right is to be interpreted broadly and includes rights that may arise in the future or on a contingency, and rights that are not legally enforceable.</p><img src="http://download.asic.gov.au/media/print.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.coindesk.com/new-sec-cyber-unit-police-icos-dlt-violations/</link>
             <guid isPermaLink="false">3996a980-7d97-4a09-9b22-907ebce5848a</guid>
             <pubDate>Tue, 26 Sep 2017 03:44:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Digital currency reading list - Dan Romero - Medium]]></title>
-            <description><![CDATA[<article><h1>Digital currency reading list - Dan Romero - Medium</h1><p>Inspired by Chris Dixon&apos;s &quot;Crypto token roundup&quot;. &quot;Digital currency reading list&quot; is published by Dan Romero</p><img src="https://cdn-images-1.medium.com/fit/c/120/120/1*8EYvAErRBDhvpbW9eTVpyA.jpeg"></article>]]></description>
-            <link>https://medium.com/@dwr/digital-currency-reading-list-6219f1623bfd</link>
-            <guid isPermaLink="false">8839c6ef-46ee-4d28-8a88-ee269b9b659b</guid>
-            <pubDate>Tue, 26 Sep 2017 01:15:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
