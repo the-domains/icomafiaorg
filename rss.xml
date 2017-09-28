@@ -4,9 +4,16 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Sep 2017 04:52:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Sep 2017 05:57:37 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 28 Sep 2017 04:52:35 GMT</pubDate>
+        <pubDate>Thu, 28 Sep 2017 05:57:36 GMT</pubDate>
+        <item>
+            <title><![CDATA[Gaming giant Nexon buys South Korean bitcoin exchange Korbit for $80m]]></title>
+            <description><![CDATA[<article><img src="https://cdn.techinasia.com/wp-content/uploads/2017/06/68554698_l.jpg"><h1>Gaming giant Nexon buys South Korean bitcoin exchange Korbit for $80m</h1><p>Gaming company Nexon has acquired a 65 percent stake in South Korean cryptocurrency exchange Korbit for US$80 million at a valuation of over US$150 million, reports South Korea&apos;s leading business news publication Hankyung, citing unnamed industry sources. Nexon is a multi-billion-dollar giant headquartered in Japan with a holding company in South Korea called NXC.</p></article>]]></description>
+            <link>https://www.techinasia.com/japanese-gaming-giant-nexon-buys-south-korean-bitcoin-exchange-korbit</link>
+            <guid isPermaLink="false">60a75287-1280-43c8-86f8-f9bf73359e98</guid>
+            <pubDate>Thu, 28 Sep 2017 05:57:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hacker Uses Malicious Smart Contract to Trick EtherDelta Users]]></title>
             <description><![CDATA[<article><img src="https://themerkle.com/wp-content/uploads/shutterstock_679842001.jpg"><h1>Hacker Uses Malicious Smart Contract to Trick EtherDelta Users</h1><p>EtherDelta is quickly becoming one of the go-to solutions when it comes to exchanging ERC20 tokens. In fact, there is no token that can&apos;t theoretically be traded on this platform. Unfortunately, the protocol was targeted by hackers a few days ago, in the form of a malicious code injection.</p></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://medium.com/@e_hicham/blockchain-and-smart-contracts-will-eat-online-marketplaces-ce86c56e62c0?source=userActivityShare-2c11b1bb50a-1506249837</link>
             <guid isPermaLink="false">526c4c62-c310-40f7-ad19-4b51d679f482</guid>
             <pubDate>Mon, 25 Sep 2017 23:57:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Crypto-Mania Grips Hong Kong as City Looks Beyond Banking]]></title>
-            <description><![CDATA[<article><h1>Crypto-Mania Grips Hong Kong as City Looks Beyond Banking</h1><p>In the mid-1990s, Johnson Leung embarked on a career in shipping. In the early 2000s, he moved to finance. And now, he runs a Hong Kong startup that aims to improve how container ships are booked using blockchain technology. Many in Hong Kong hope the city can make a similar leap.</p><img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivq2uYtZTs7M/v0/1200x675.jpg"></article>]]></description>
-            <link>https://www.bloomberg.com/news/articles/2017-09-24/crypto-mania-grips-hong-kong-as-city-looks-for-life-beyond-banks</link>
-            <guid isPermaLink="false">db42458c-96fe-418f-9073-f2103ab38708</guid>
-            <pubDate>Mon, 25 Sep 2017 23:44:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
