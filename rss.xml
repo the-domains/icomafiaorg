@@ -4,9 +4,16 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Sep 2017 05:57:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Sep 2017 14:39:52 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 28 Sep 2017 05:57:36 GMT</pubDate>
+        <pubDate>Thu, 28 Sep 2017 14:39:51 GMT</pubDate>
+        <item>
+            <title><![CDATA[Initial coin offerings | ASIC - Australian Securities and Investments Commission]]></title>
+            <description><![CDATA[<article><h1>Initial coin offerings | ASIC - Australian Securities and Investments Commission</h1><p>An assessment of what rights are attached to the coins (or tokens) issued under an ICO is the key consideration in relation to assessing the legal status of an ICO. For this purpose what is a right is to be interpreted broadly and includes rights that may arise in the future or on a contingency, and rights that are not legally enforceable.</p><img src="http://download.asic.gov.au/media/print.png"></article>]]></description>
+            <link>http://asic.gov.au/regulatory-resources/digital-transformation/initial-coin-offerings/</link>
+            <guid isPermaLink="false">4153f450-32e5-4ec4-86c1-766cf0dd2070</guid>
+            <pubDate>Thu, 28 Sep 2017 14:39:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gaming giant Nexon buys South Korean bitcoin exchange Korbit for $80m]]></title>
             <description><![CDATA[<article><img src="https://cdn.techinasia.com/wp-content/uploads/2017/06/68554698_l.jpg"><h1>Gaming giant Nexon buys South Korean bitcoin exchange Korbit for $80m</h1><p>Gaming company Nexon has acquired a 65 percent stake in South Korean cryptocurrency exchange Korbit for US$80 million at a valuation of over US$150 million, reports South Korea&apos;s leading business news publication Hankyung, citing unnamed industry sources. Nexon is a multi-billion-dollar giant headquartered in Japan with a holding company in South Korea called NXC.</p></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://medium.com/@dwr/digital-currency-reading-list-6219f1623bfd</link>
             <guid isPermaLink="false">8839c6ef-46ee-4d28-8a88-ee269b9b659b</guid>
             <pubDate>Tue, 26 Sep 2017 01:15:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blockchain and Smart Contracts Will Eat Online Marketplaces]]></title>
-            <description><![CDATA[<article><h1>Blockchain and Smart Contracts Will Eat Online Marketplaces</h1><p>A few months ago I wrote a piece called What Kind of Marketplace Are You Building? It covered the structural differences between the main types of marketplaces. In this follow-up post, I&apos;d like to address some external factors that could impact the model in the long run.</p><img src="https://cdn-images-1.medium.com/max/2000/1*vC7Ss9VwUCaUrTloOAAgfw.png"></article>]]></description>
-            <link>https://medium.com/@e_hicham/blockchain-and-smart-contracts-will-eat-online-marketplaces-ce86c56e62c0?source=userActivityShare-2c11b1bb50a-1506249837</link>
-            <guid isPermaLink="false">526c4c62-c310-40f7-ad19-4b51d679f482</guid>
-            <pubDate>Mon, 25 Sep 2017 23:57:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
