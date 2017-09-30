@@ -4,9 +4,16 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Sep 2017 01:33:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Sep 2017 01:33:18 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 30 Sep 2017 01:32:56 GMT</pubDate>
+        <pubDate>Sat, 30 Sep 2017 01:33:00 GMT</pubDate>
+        <item>
+            <title><![CDATA[ICOs - Part 1 - An interactive visualization of the ICO space | BitMEX Blog]]></title>
+            <description><![CDATA[<article><h1>ICOs - Part 1 - An interactive visualization of the ICO space | BitMEX Blog</h1><p>Abstract: In this week&apos;s piece, we look at the world of ICOs. We present an interactive visualization, that illustrates the entire ICO landscape and the interconnections between people officially affiliated with each ICO Interactive ICO team member network map Source: BitMEX Research, ICO websites, icoHunt own and provided the raw data (Do not use the data ...</p><img src="https://blog.bitmex.com/wp-content/uploads/2017/09/icopeople.png"></article>]]></description>
+            <link>https://blog.bitmex.com/initial-coin-offerings-icos-a-complex-web/</link>
+            <guid isPermaLink="false">5566b5c6-271e-47cd-beaa-c695b753bc62</guid>
+            <pubDate>Sat, 30 Sep 2017 01:32:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[QUOINE is the First Global Cryptocurrency FinTech Company to Receive License from Japan Financial Services Agency]]></title>
             <description><![CDATA[<article><h1>QUOINE is the First Global Cryptocurrency FinTech Company to Receive License from Japan Financial Services Agency</h1><p>Since the amended Payment Services Act came into effect on 1 st April 2017 in , QUOINE has worked closely with the Big Four audit and accounting companies, developing comprehensive AML countermeasures, internal audit, management systems, as well as communicating with the JFSA and Kanto Financial Bureau.</p><img src="http://content.prnewswire.com/images/prn_facebook_sharing_logo.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.engadget.com/2017/09/26/blockchain-smartphone-sirin-finney-solarin/</link>
             <guid isPermaLink="false">8bcac1cc-2b8e-4541-b4ec-008dbee53db4</guid>
             <pubDate>Tue, 26 Sep 2017 22:23:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ethereum Founder Vitalik Buterin Co-Authors Plan for 'Iterative' ICO Protocol - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Ethereum Founder Vitalik Buterin Co-Authors Plan for &apos;Iterative&apos; ICO Protocol - CoinDesk</h1><p>The protocol, which would seek to produce an &quot;equilibrium&quot; between capped and uncapped token sales, represents a collaborative effort between ethereum founder Vitalik Buterin and developer Jason Teutsch, the creator of smart contract scalability project TrueBit. In the white paper, released today, the authors detail a system by which an ICO could respond to the actions of buyers.</p><img src="https://media.coindesk.com/uploads/2017/09/bead-roller-toy-e1506448895648.jpg"></article>]]></description>
-            <link>https://www.coindesk.com/ethereum-founder-vitalik-buterin-co-authors-plan-iterative-ico-protocol/</link>
-            <guid isPermaLink="false">a0080afe-b974-44df-b2c6-d08a77f5bf9b</guid>
-            <pubDate>Tue, 26 Sep 2017 22:22:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
