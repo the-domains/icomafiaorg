@@ -4,9 +4,16 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Sep 2017 01:33:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Sep 2017 04:04:58 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 30 Sep 2017 01:33:10 GMT</pubDate>
+        <pubDate>Sat, 30 Sep 2017 04:04:56 GMT</pubDate>
+        <item>
+            <title><![CDATA[IOTA BREAKDOWN: The Tangle Vs. Blockchain Explained]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FI_jNH9BlEEo%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DI_jNH9BlEEo&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FI_jNH9BlEEo%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/I_jNH9BlEEo</link>
+            <guid isPermaLink="false">bbff0751-50cd-493e-9f89-03a2d58493d0</guid>
+            <pubDate>Sat, 30 Sep 2017 04:04:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SEC.gov | SEC Exposes Two Initial Coin Offerings Purportedly Backed by Real Estate and Diamonds]]></title>
             <description><![CDATA[<article><h1>SEC.gov | SEC Exposes Two Initial Coin Offerings Purportedly Backed by Real Estate and Diamonds</h1><p>According to the SEC&apos;s complaint, Zaslavskiy carried his scheme over to Diamond Reserve Club, which purportedly invests in diamonds and obtains discounts with product retailers for individuals who purchase &quot;memberships&quot; in the company. Despite their representations to investors, the SEC alleges that Zaslavskiy and Diamond have not purchased any diamonds nor engaged in any business operations.</p><img src="https://www.sec.gov/files/sec-logo.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.techinasia.com/japanese-gaming-giant-nexon-buys-south-korean-bitcoin-exchange-korbit</link>
             <guid isPermaLink="false">60a75287-1280-43c8-86f8-f9bf73359e98</guid>
             <pubDate>Thu, 28 Sep 2017 05:57:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hacker Uses Malicious Smart Contract to Trick EtherDelta Users]]></title>
-            <description><![CDATA[<article><img src="https://themerkle.com/wp-content/uploads/shutterstock_679842001.jpg"><h1>Hacker Uses Malicious Smart Contract to Trick EtherDelta Users</h1><p>EtherDelta is quickly becoming one of the go-to solutions when it comes to exchanging ERC20 tokens. In fact, there is no token that can&apos;t theoretically be traded on this platform. Unfortunately, the protocol was targeted by hackers a few days ago, in the form of a malicious code injection.</p></article>]]></description>
-            <link>https://themerkle.com/hacker-uses-malicious-smart-contract-to-trick-etherdelta-users/</link>
-            <guid isPermaLink="false">2767cb10-462a-460e-83f0-9702ae8ae7b3</guid>
-            <pubDate>Thu, 28 Sep 2017 04:52:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
