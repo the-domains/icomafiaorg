@@ -4,9 +4,16 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Sep 2017 01:33:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Sep 2017 01:33:43 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 30 Sep 2017 01:33:06 GMT</pubDate>
+        <pubDate>Sat, 30 Sep 2017 01:33:10 GMT</pubDate>
+        <item>
+            <title><![CDATA[SEC.gov | SEC Exposes Two Initial Coin Offerings Purportedly Backed by Real Estate and Diamonds]]></title>
+            <description><![CDATA[<article><h1>SEC.gov | SEC Exposes Two Initial Coin Offerings Purportedly Backed by Real Estate and Diamonds</h1><p>According to the SEC&apos;s complaint, Zaslavskiy carried his scheme over to Diamond Reserve Club, which purportedly invests in diamonds and obtains discounts with product retailers for individuals who purchase &quot;memberships&quot; in the company. Despite their representations to investors, the SEC alleges that Zaslavskiy and Diamond have not purchased any diamonds nor engaged in any business operations.</p><img src="https://www.sec.gov/files/sec-logo.png"></article>]]></description>
+            <link>https://www.sec.gov/news/press-release/2017-185-0</link>
+            <guid isPermaLink="false">00d19112-3eaa-45cd-a878-d4d9b3f6c91e</guid>
+            <pubDate>Sat, 30 Sep 2017 01:33:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[FINMA - FINMA is investigating ICO procedures]]></title>
             <description><![CDATA[<article><h1>FINMA - FINMA is investigating ICO procedures</h1><p>The Financial Market Supervisory Authority FINMA has observed a marked increase in initial coin offerings (ICOs) conducted in Switzerland. It has today therefore issued FINMA Guidance 04/2017 on this topic. FINMA has also indicated that it is investigating a number of ICO cases to determine whether regulatory provisions have been breached.</p></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://themerkle.com/hacker-uses-malicious-smart-contract-to-trick-etherdelta-users/</link>
             <guid isPermaLink="false">2767cb10-462a-460e-83f0-9702ae8ae7b3</guid>
             <pubDate>Thu, 28 Sep 2017 04:52:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Regulated ICOs Arrive: Overstock to Open Exchange for Legal Token Trading - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Regulated ICOs Arrive: Overstock to Open Exchange for Legal Token Trading - CoinDesk</h1><p>Get ready for regulated token trading. Announced today, t&Oslash;, the capital markets arm of Overstock&apos;s blockchain-focused subsidiary Medici, is launching a first-of-its-kind alternative trading system (ATS) that will provide a platform for the exchange of cryptographic tokens categorized in the U.S. as securities.</p><img src="https://media.coindesk.com/uploads/2017/09/confetti-celebration-e1506480689924.jpg"></article>]]></description>
-            <link>https://www.coindesk.com/regulated-icos-arrive-overstock-open-exchange-legal-token-trading/</link>
-            <guid isPermaLink="false">2b94232b-4463-494e-9470-d13bb2630b53</guid>
-            <pubDate>Wed, 27 Sep 2017 13:43:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
