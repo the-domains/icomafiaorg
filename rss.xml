@@ -4,9 +4,16 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 Oct 2017 01:55:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Oct 2017 01:58:33 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Oct 2017 01:55:32 GMT</pubDate>
+        <pubDate>Mon, 02 Oct 2017 01:58:31 GMT</pubDate>
+        <item>
+            <title><![CDATA[Ethereum Q&A: ICOs, disruption, and self-regulation]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FyfjgcI8xX3A%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DyfjgcI8xX3A&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FyfjgcI8xX3A%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://www.youtube.com/watch?v=yfjgcI8xX3A&amp;feature=youtu.be</link>
+            <guid isPermaLink="false">37384e10-bc08-4b49-914d-05b8a94487f4</guid>
+            <pubDate>Mon, 02 Oct 2017 01:58:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to Legitimize the ICO Market (Crypto Lawyers Take Note)]]></title>
             <description><![CDATA[<article><h1>How to Legitimize the ICO Market (Crypto Lawyers Take Note)</h1><p>In this opinion piece, he explains why his profession should play a critical role in the growth and maturation of the ICO market. Recently, I set out to analyze the terms of various initial coin offerings (ICOs), aggregate the results and make them public. This was harder than I expected.</p><img src="http://static1.squarespace.com/static/590ee7aed2b8578e64702bed/591d7c8703596edea296bb61/59d0e0d8be42d658b89d1e2b/1506861513573/flashlight-floor-e1506709416574.jpg?format=1000w"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.cryptocoinsnews.com/breaking-south-korea-bans-initial-coin-offerings-report/</link>
             <guid isPermaLink="false">427ed39c-1ca1-432f-80cd-33d47257f0a3</guid>
             <pubDate>Sat, 30 Sep 2017 01:32:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Most ICOs Fail: Tale of Two Worlds - Hacker Noon]]></title>
-            <description><![CDATA[<article><h1>Most ICOs Fail: Tale of Two Worlds - Hacker Noon</h1><p>The number of Initial coin offerings has surged over the past six months. However, all is not as rosy as it appears. A nuanced assessment of token distribution activity tells a tale of two very...</p><img src="https://cdn-images-1.medium.com/max/1200/1*3cU0lQtIg4Qz94tPEkq2_A.png"></article>]]></description>
-            <link>https://hackernoon.com/most-icos-fail-tale-of-two-worlds-d1ab7625ff66</link>
-            <guid isPermaLink="false">f4fed56d-dbbe-4c1b-baaa-b9a8e71a3280</guid>
-            <pubDate>Thu, 28 Sep 2017 14:40:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
