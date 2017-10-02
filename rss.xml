@@ -4,9 +4,16 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 Oct 2017 01:55:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Oct 2017 01:55:34 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Oct 2017 01:55:00 GMT</pubDate>
+        <pubDate>Mon, 02 Oct 2017 01:55:32 GMT</pubDate>
+        <item>
+            <title><![CDATA[How to Legitimize the ICO Market (Crypto Lawyers Take Note)]]></title>
+            <description><![CDATA[<article><h1>How to Legitimize the ICO Market (Crypto Lawyers Take Note)</h1><p>In this opinion piece, he explains why his profession should play a critical role in the growth and maturation of the ICO market. Recently, I set out to analyze the terms of various initial coin offerings (ICOs), aggregate the results and make them public. This was harder than I expected.</p><img src="http://static1.squarespace.com/static/590ee7aed2b8578e64702bed/591d7c8703596edea296bb61/59d0e0d8be42d658b89d1e2b/1506861513573/flashlight-floor-e1506709416574.jpg?format=1000w"></article>]]></description>
+            <link>https://theblockchain.news/new-blog/how-to-legitimize-the-ico-market-crypto-lawyers-take-note/1/10/2017</link>
+            <guid isPermaLink="false">1c2829e9-0c56-4f4d-8d80-6a2988963afc</guid>
+            <pubDate>Mon, 02 Oct 2017 01:55:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dubai signs deal to create digital currency emCash]]></title>
             <description><![CDATA[<article><h1>Dubai signs deal to create digital currency emCash</h1><p>Emcredit, a subsidiary of Dubai Economy, and UK-based Object Tech Group Ltd will work together on new technology A partnership has been set up to develop and implement emCash, an encrypted digital currency, which people can use to pay for various government and non-government services in Dubai.</p><img src="http://www.arabianbusiness.com/sites/default/files/images/2017/09/26/Digital-Payment.JPG"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://hackernoon.com/most-icos-fail-tale-of-two-worlds-d1ab7625ff66</link>
             <guid isPermaLink="false">f4fed56d-dbbe-4c1b-baaa-b9a8e71a3280</guid>
             <pubDate>Thu, 28 Sep 2017 14:40:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Initial coin offerings | ASIC - Australian Securities and Investments Commission]]></title>
-            <description><![CDATA[<article><h1>Initial coin offerings | ASIC - Australian Securities and Investments Commission</h1><p>An assessment of what rights are attached to the coins (or tokens) issued under an ICO is the key consideration in relation to assessing the legal status of an ICO. For this purpose what is a right is to be interpreted broadly and includes rights that may arise in the future or on a contingency, and rights that are not legally enforceable.</p><img src="http://download.asic.gov.au/media/print.png"></article>]]></description>
-            <link>http://asic.gov.au/regulatory-resources/digital-transformation/initial-coin-offerings/</link>
-            <guid isPermaLink="false">4153f450-32e5-4ec4-86c1-766cf0dd2070</guid>
-            <pubDate>Thu, 28 Sep 2017 14:39:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
