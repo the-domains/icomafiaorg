@@ -4,9 +4,16 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 Oct 2017 03:02:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Oct 2017 03:07:56 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Oct 2017 03:02:52 GMT</pubDate>
+        <pubDate>Tue, 03 Oct 2017 03:07:54 GMT</pubDate>
+        <item>
+            <title><![CDATA[Following Ether Flash Crash, US Watchdog Investigating Coinbase for Margin Trading]]></title>
+            <description><![CDATA[<article><img src="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9lZTc3N2M5ZTM2MzI0ZjRiZDcwYmIwNTcwOWI0OTg4OC5qcGc=.jpg"><h1>Following Ether Flash Crash, US Watchdog Investigating Coinbase for Margin Trading</h1><p>The Commodity Futures Trading Commission has set in motion an investigation into a flash crash of Ethereum on Coinbase&apos;s exchange to determine what role leveraging might have played in the plunge. This past June, on Coinbase&apos;s GDAX exchange, Ethereum suffered a precipitous drop, falling to 10 cents from $317.81 in milliseconds before quickly recovering.</p></article>,,<p>It was thought that the crash was caused by a single $12.5 mln trade that prompted selling by other investors. The sell order came from an address associated with Ethereum’s genesis block, meaning that the funds were owned by an original investor in Ethereum’s ICO.</p>]]></description>
+            <link>https://cointelegraph.com/news/following-ether-flash-crash-us-watchdog-investigating-coinbase-for-margin-trading</link>
+            <guid isPermaLink="false">d6095ff5-12da-47b8-84bb-2888bbe2cdc6</guid>
+            <pubDate>Tue, 03 Oct 2017 03:07:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[AngelList Creator Naval Ravikant Backs S&P-Style Cryptocurrency Fund - CoinDesk]]></title>
             <description><![CDATA[<article><img src="https://media.coindesk.com/uploads/2017/08/naval-consensus-2017.jpeg"><h1>AngelList Creator Naval Ravikant Backs S&amp;P-Style Cryptocurrency Fund - CoinDesk</h1><p>A startup led by former Facebook and Google employees is launching a cryptocurrency index fund. Backed by AngelList founder Naval Ravikant, Bitwise Asset Management is today coming out of stealth mode to reveal its first product, the Bitwise Hold10 Private Index Fund - a market cap-weighted basket of the top 10 cryptocurrencies by network value.</p></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.finma.ch/en/news/2017/09/20170929-mm-ico/</link>
             <guid isPermaLink="false">4f959a3a-7067-4685-ab04-c8d3f5ca097e</guid>
             <pubDate>Sat, 30 Sep 2017 01:33:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SEC Thailand's Viewpoint on ICO]]></title>
-            <description><![CDATA[<article><h1>SEC Thailand&apos;s Viewpoint on ICO</h1><img src="http://www.sec.or.th/download/images/EN/3_small.jpg"></article>]]></description>
-            <link>http://www.sec.or.th/EN/Pages/FinTech/ICO.aspx</link>
-            <guid isPermaLink="false">550b160a-8903-496e-b811-5e1f0ed8c118</guid>
-            <pubDate>Sat, 30 Sep 2017 01:33:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
