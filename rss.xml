@@ -4,9 +4,16 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 Oct 2017 03:07:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Oct 2017 12:59:40 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Oct 2017 03:07:54 GMT</pubDate>
+        <pubDate>Tue, 03 Oct 2017 12:59:39 GMT</pubDate>
+        <item>
+            <title><![CDATA[Why ICOs Should Want to Be Securities - CoinDesk]]></title>
+            <description><![CDATA[<article><img src="https://media.coindesk.com/uploads/2017/09/clouds.jpg"><h1>Why ICOs Should Want to Be Securities - CoinDesk</h1><p>Lindsay Lin is a counsel and program manager at Lightyear.io , a company that leverages the open-source Stellar protocol to build digital payments infrastructure and services. In this opinion piece, Lin argues that issuers of ICOs should not only accept but embrace regulators&apos; classification of their tokens as securities.</p></article>]]></description>
+            <link>https://www.coindesk.com/icos-want-securities/</link>
+            <guid isPermaLink="false">daf9778c-656e-4669-a91b-2260aa7b7075</guid>
+            <pubDate>Tue, 03 Oct 2017 12:59:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Following Ether Flash Crash, US Watchdog Investigating Coinbase for Margin Trading]]></title>
             <description><![CDATA[<article><img src="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9lZTc3N2M5ZTM2MzI0ZjRiZDcwYmIwNTcwOWI0OTg4OC5qcGc=.jpg"><h1>Following Ether Flash Crash, US Watchdog Investigating Coinbase for Margin Trading</h1><p>The Commodity Futures Trading Commission has set in motion an investigation into a flash crash of Ethereum on Coinbase&apos;s exchange to determine what role leveraging might have played in the plunge. This past June, on Coinbase&apos;s GDAX exchange, Ethereum suffered a precipitous drop, falling to 10 cents from $317.81 in milliseconds before quickly recovering.</p></article>,,<p>It was thought that the crash was caused by a single $12.5 mln trade that prompted selling by other investors. The sell order came from an address associated with Ethereum’s genesis block, meaning that the funds were owned by an original investor in Ethereum’s ICO.</p>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.sec.gov/news/press-release/2017-185-0</link>
             <guid isPermaLink="false">00d19112-3eaa-45cd-a878-d4d9b3f6c91e</guid>
             <pubDate>Sat, 30 Sep 2017 01:33:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FINMA - FINMA is investigating ICO procedures]]></title>
-            <description><![CDATA[<article><h1>FINMA - FINMA is investigating ICO procedures</h1><p>The Financial Market Supervisory Authority FINMA has observed a marked increase in initial coin offerings (ICOs) conducted in Switzerland. It has today therefore issued FINMA Guidance 04/2017 on this topic. FINMA has also indicated that it is investigating a number of ICO cases to determine whether regulatory provisions have been breached.</p></article>]]></description>
-            <link>https://www.finma.ch/en/news/2017/09/20170929-mm-ico/</link>
-            <guid isPermaLink="false">4f959a3a-7067-4685-ab04-c8d3f5ca097e</guid>
-            <pubDate>Sat, 30 Sep 2017 01:33:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
