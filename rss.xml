@@ -4,9 +4,16 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 Oct 2017 03:26:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Oct 2017 03:02:24 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Oct 2017 03:26:41 GMT</pubDate>
+        <pubDate>Tue, 03 Oct 2017 03:02:11 GMT</pubDate>
+        <item>
+            <title><![CDATA[SAFT Arrives: 'Simple' Investor Agreement Aims to Remove ICO Complexities - CoinDesk]]></title>
+            <description><![CDATA[<article><img src="https://media.coindesk.com/uploads/2017/10/paper-clip-e1506912778835.jpg"><h1>SAFT Arrives: &apos;Simple&apos; Investor Agreement Aims to Remove ICO Complexities - CoinDesk</h1><p>&quot;Toxic&quot;: that&apos;s how veteran lawyer Marco Santori described the first &quot;SAFT&quot; he saw. Created by an unidentified token seller as a way to solicit investment, Santori - the head of Cooley LLP&apos;s fintech practice - went on to call the document a cheap knockoff of the &quot;Simple Agreement for Future Equity&quot; ( SAFE) framework popularized by early stage investor Y Combinator.</p></article>]]></description>
+            <link>https://www.coindesk.com/saft-arrives-simple-investor-agreement-aims-remove-ico-complexities/</link>
+            <guid isPermaLink="false">9b2651a4-ca3b-45dc-8100-84b97cc78ebc</guid>
+            <pubDate>Tue, 03 Oct 2017 03:01:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fidelity CEO Abigail Johnson says the company is mining cryptocurrencies]]></title>
             <description><![CDATA[<article><h1>Fidelity CEO Abigail Johnson says the company is mining cryptocurrencies</h1><p>Fidelity Investments, one of the world&apos;s largest investment firms with $2.3 trillion in managed assets, is taking a long look at cryptocurrencies. The firm has been experimenting internally with bitcoin, but is now bringing some of those features out to its broad customer base.</p><img src="https://tctechcrunch2011.files.wordpress.com/2017/09/gettyimages-143349700.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://blog.bitmex.com/initial-coin-offerings-icos-a-complex-web/</link>
             <guid isPermaLink="false">5566b5c6-271e-47cd-beaa-c695b753bc62</guid>
             <pubDate>Sat, 30 Sep 2017 01:32:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[QUOINE is the First Global Cryptocurrency FinTech Company to Receive License from Japan Financial Services Agency]]></title>
-            <description><![CDATA[<article><h1>QUOINE is the First Global Cryptocurrency FinTech Company to Receive License from Japan Financial Services Agency</h1><p>Since the amended Payment Services Act came into effect on 1 st April 2017 in , QUOINE has worked closely with the Big Four audit and accounting companies, developing comprehensive AML countermeasures, internal audit, management systems, as well as communicating with the JFSA and Kanto Financial Bureau.</p><img src="http://content.prnewswire.com/images/prn_facebook_sharing_logo.jpg"></article>]]></description>
-            <link>http://www.prnewswire.com/news-releases/quoine-is-the-first-global-cryptocurrency-fintech-company-to-receive-license-from-japan-financial-services-agency-300528136.html?tc=eml_cleartime</link>
-            <guid isPermaLink="false">3cbd9bf9-de24-40e6-ad31-83d15b287ee4</guid>
-            <pubDate>Sat, 30 Sep 2017 01:32:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
