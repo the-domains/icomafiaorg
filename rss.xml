@@ -4,9 +4,16 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 Oct 2017 12:59:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Oct 2017 22:53:07 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Oct 2017 12:59:39 GMT</pubDate>
+        <pubDate>Tue, 03 Oct 2017 22:53:05 GMT</pubDate>
+        <item>
+            <title><![CDATA[The Case for Switzerland, and Particularly Zug, as the Global Blockchain and Cryptocurrency Hub]]></title>
+            <description><![CDATA[<article><h1>The Case for Switzerland, and Particularly Zug, as the Global Blockchain and Cryptocurrency Hub</h1><p>At the time of writing, Zug has the nickname of &quot;Crypto Valley.&quot; Numerous leading blockchain startups are housed there, including the Ethereum Foundation, ShapeShift and Xapo to name a few. According to the World Economic Forum&apos;s Global Competitiveness Report (2017), Switzerland is ranked number 1 out of 138 countries as the most competitive and productive in the world.</p><img src="https://s3.amazonaws.com/influencive.com/wp-content/uploads/2017/09/29191431/the-case-of-zug-switzerland-as-the-global-blockchain-and-cryptocurrency-hub.jpg"></article>]]></description>
+            <link>https://www.influencive.com/case-switzerland-particularly-zug-global-blockchain-cryptocurrency-hub</link>
+            <guid isPermaLink="false">9bba0669-f706-499a-810e-d086bb20405e</guid>
+            <pubDate>Tue, 03 Oct 2017 22:53:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why ICOs Should Want to Be Securities - CoinDesk]]></title>
             <description><![CDATA[<article><img src="https://media.coindesk.com/uploads/2017/09/clouds.jpg"><h1>Why ICOs Should Want to Be Securities - CoinDesk</h1><p>Lindsay Lin is a counsel and program manager at Lightyear.io , a company that leverages the open-source Stellar protocol to build digital payments infrastructure and services. In this opinion piece, Lin argues that issuers of ICOs should not only accept but embrace regulators&apos; classification of their tokens as securities.</p></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://youtu.be/I_jNH9BlEEo</link>
             <guid isPermaLink="false">bbff0751-50cd-493e-9f89-03a2d58493d0</guid>
             <pubDate>Sat, 30 Sep 2017 04:04:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SEC.gov | SEC Exposes Two Initial Coin Offerings Purportedly Backed by Real Estate and Diamonds]]></title>
-            <description><![CDATA[<article><h1>SEC.gov | SEC Exposes Two Initial Coin Offerings Purportedly Backed by Real Estate and Diamonds</h1><p>According to the SEC&apos;s complaint, Zaslavskiy carried his scheme over to Diamond Reserve Club, which purportedly invests in diamonds and obtains discounts with product retailers for individuals who purchase &quot;memberships&quot; in the company. Despite their representations to investors, the SEC alleges that Zaslavskiy and Diamond have not purchased any diamonds nor engaged in any business operations.</p><img src="https://www.sec.gov/files/sec-logo.png"></article>]]></description>
-            <link>https://www.sec.gov/news/press-release/2017-185-0</link>
-            <guid isPermaLink="false">00d19112-3eaa-45cd-a878-d4d9b3f6c91e</guid>
-            <pubDate>Sat, 30 Sep 2017 01:33:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
