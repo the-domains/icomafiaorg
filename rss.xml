@@ -4,9 +4,16 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 Oct 2017 22:53:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Oct 2017 23:04:05 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Oct 2017 22:53:05 GMT</pubDate>
+        <pubDate>Tue, 03 Oct 2017 23:04:04 GMT</pubDate>
+        <item>
+            <title><![CDATA[Outlier Ventures " Outlier Ventures backs Evernym to bring the world true self-sovereign identity]]></title>
+            <description><![CDATA[<article><h1>Outlier Ventures &quot; Outlier Ventures backs Evernym to bring the world true self-sovereign identity</h1><p>London (3 October 2017) - Leading blockchain and Web 3.0 venture capital firm Outlier Ventures becomes an investor in, and strategic partner of, Evernym the foremost developer of self sovereign identity technologies and inventor of Sovrin, the global public utility for decentralised exchange of verifiable claims. Sovrin&apos;s utility token distribution event is slated for mid-2018.</p><img src="https://outlierventures.io/wp-content/themes/outlierventures/assets/images/tw.png"></article>]]></description>
+            <link>https://outlierventures.io/outlier-ventures-backs-evernym-to-bring-the-world-true-self-sovereign-identity/</link>
+            <guid isPermaLink="false">b868980d-cfde-418a-b4ac-678781c3f57e</guid>
+            <pubDate>Tue, 03 Oct 2017 23:04:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Case for Switzerland, and Particularly Zug, as the Global Blockchain and Cryptocurrency Hub]]></title>
             <description><![CDATA[<article><h1>The Case for Switzerland, and Particularly Zug, as the Global Blockchain and Cryptocurrency Hub</h1><p>At the time of writing, Zug has the nickname of &quot;Crypto Valley.&quot; Numerous leading blockchain startups are housed there, including the Ethereum Foundation, ShapeShift and Xapo to name a few. According to the World Economic Forum&apos;s Global Competitiveness Report (2017), Switzerland is ranked number 1 out of 138 countries as the most competitive and productive in the world.</p><img src="https://s3.amazonaws.com/influencive.com/wp-content/uploads/2017/09/29191431/the-case-of-zug-switzerland-as-the-global-blockchain-and-cryptocurrency-hub.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://www.arabianbusiness.com/industries/banking-finance/379617-dubai-signs-deal-to-establish-digital-currency-emcash</link>
             <guid isPermaLink="false">9bc88cb7-8a5f-4597-98d4-b8ee9471d3cb</guid>
             <pubDate>Mon, 02 Oct 2017 01:54:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IOTA BREAKDOWN: The Tangle Vs. Blockchain Explained]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FI_jNH9BlEEo%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DI_jNH9BlEEo&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FI_jNH9BlEEo%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://youtu.be/I_jNH9BlEEo</link>
-            <guid isPermaLink="false">bbff0751-50cd-493e-9f89-03a2d58493d0</guid>
-            <pubDate>Sat, 30 Sep 2017 04:04:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
