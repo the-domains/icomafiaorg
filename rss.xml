@@ -4,9 +4,16 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 Oct 2017 05:48:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Oct 2017 05:54:06 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 09 Oct 2017 05:48:21 GMT</pubDate>
+        <pubDate>Mon, 09 Oct 2017 05:54:05 GMT</pubDate>
+        <item>
+            <title><![CDATA[Why regulation will only get faster in the ICO space - lessons from the "dot-com" boom and bust.]]></title>
+            <description><![CDATA[<article><img src="https://cdn-images-1.medium.com/max/1200/1*INBRWmC86vL8OlzhnlvAfg.jpeg"><h1>Why regulation will only get faster in the ICO space - lessons from the &quot;dot-com&quot; boom and bust.</h1><p>James W. Marshall is a name that is embedded in folklore and US history that most of us will never have heard of. The humble carpenter from New Jersey was working in the American River at the base of the Sierra Nevada mountains in Northern California as part of a team working to build a water-powered saw mill for a local entrepreneur, John Sutter.</p></article>,<p>An interesting comparison of Dot-Com vs ICO</p>]]></description>
+            <link>https://medium.com/@timlea/why-regulation-will-only-get-faster-in-the-ico-space-lessons-from-the-dot-com-boom-and-bust-c6af889e7968</link>
+            <guid isPermaLink="false">813dd2d0-c0e8-4e0e-94e7-7af92c996ba2</guid>
+            <pubDate>Mon, 09 Oct 2017 05:53:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hedge Funds Flip ICOs, Leaving Other Investors Holding the Bag]]></title>
             <description><![CDATA[<article><h1>Hedge Funds Flip ICOs, Leaving Other Investors Holding the Bag</h1><p>Instead of speculating on bitcoin, the smart money has figured out that one of the surest ways to get rich quickly with cryptocurrencies is to be in early on initial coin offerings. Hedge funds are proving to be first among equals when it comes to digital token sales by technology startups, receiving preferential discounts and terms and then often cashing out.</p></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://hackernoon.com/the-7-things-you-need-to-know-from-the-sec-compliant-ico-conference-call-347822f5419f</link>
             <guid isPermaLink="false">74452bd2-0172-4b28-b221-c9f838a300ba</guid>
             <pubDate>Wed, 04 Oct 2017 01:06:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Outlier Ventures " Outlier Ventures backs Evernym to bring the world true self-sovereign identity]]></title>
-            <description><![CDATA[<article><h1>Outlier Ventures &quot; Outlier Ventures backs Evernym to bring the world true self-sovereign identity</h1><p>London (3 October 2017) - Leading blockchain and Web 3.0 venture capital firm Outlier Ventures becomes an investor in, and strategic partner of, Evernym the foremost developer of self sovereign identity technologies and inventor of Sovrin, the global public utility for decentralised exchange of verifiable claims. Sovrin&apos;s utility token distribution event is slated for mid-2018.</p><img src="https://outlierventures.io/wp-content/themes/outlierventures/assets/images/tw.png"></article>]]></description>
-            <link>https://outlierventures.io/outlier-ventures-backs-evernym-to-bring-the-world-true-self-sovereign-identity/</link>
-            <guid isPermaLink="false">b868980d-cfde-418a-b4ac-678781c3f57e</guid>
-            <pubDate>Tue, 03 Oct 2017 23:04:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
