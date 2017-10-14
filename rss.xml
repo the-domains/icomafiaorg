@@ -4,9 +4,16 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 Oct 2017 05:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Oct 2017 05:16:58 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 14 Oct 2017 05:14:45 GMT</pubDate>
+        <pubDate>Sat, 14 Oct 2017 05:16:56 GMT</pubDate>
+        <item>
+            <title><![CDATA[Institutional Analysis of Popular Features in the Design of Crypto-Token-Economies]]></title>
+            <description><![CDATA[<article><h1>Institutional Analysis of Popular Features in the Design of Crypto-Token-Economies</h1><p>In this short post, which is a part of a work-in-progress on a paper with a similar title, I&apos;ll try to provide an economic analysis, mostly from an institutionalist perspective, on a few popular features of crypto-token-economies. The main features which will be under the &quot;institutional microscope&quot; are hard-caps, and token reserves and injection policy of ecosystems&apos; initiators.</p><img src="https://cdn-images-1.medium.com/max/1600/1*Bdsxl2iVZc_855bv3Ih7ag.jpeg"></article>]]></description>
+            <link>https://medium.com/@boaz.quant/institutional-analysis-of-popular-features-in-the-design-of-crypto-token-economies-7bb2f93e783f</link>
+            <guid isPermaLink="false">b397385b-7fe8-483f-b768-1094d27ccd8d</guid>
+            <pubDate>Sat, 14 Oct 2017 05:16:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A cryptocurrency deal and Broken Tooth - what can go wrong?]]></title>
             <description><![CDATA[<article><h1>A cryptocurrency deal and Broken Tooth - what can go wrong?</h1><p>What legal recourse or compensation would investors have if things turn sour with an offering that is closely related to casino junket operators?</p><img src="https://cdn2.i-scmp.com/sites/default/files/styles/2000x792/public/images/methode/2017/10/06/6a2c2fb4-aa92-11e7-ac3e-6a4e39b7ad7c_4000x1584_231510.JPG?itok=qb73Ej8H"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.forbes.com/sites/laurashin/2017/09/21/heres-the-man-who-created-icos-and-this-is-the-new-token-hes-backing/#a437cd511839</link>
             <guid isPermaLink="false">4230f876-5ea0-4d46-836a-4ce807b245bf</guid>
             <pubDate>Sat, 07 Oct 2017 14:21:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chinese money dominates bitcoin, now its companies are gunning for blockchain tech]]></title>
-            <description><![CDATA[<article><h1>Chinese money dominates bitcoin, now its companies are gunning for blockchain tech</h1><p>Beijing, China It&apos;s a sweltering summer night when I&apos;m invited to join a bitcoin miner from Shenzhen at a &quot;bitcoin club&quot; somewhere in downtown Beijing. I&apos;ve just returned from visiting one of the world&apos;s largest bitcoin mines and find myself at a gathering of cryptocurrency enthusiasts at a craft beer brewery in the Sanlitun nightlife district....</p><img src="https://qzprod.files.wordpress.com/2017/09/bitcoin-club-beijing-1.jpg?quality=80&strip=all&w=1200&fit=440%2C330"></article>]]></description>
-            <link>https://qz.com/1072907/why-china-is-so-hot-on-bitcoin/</link>
-            <guid isPermaLink="false">35b5fb8f-a412-4ca6-a071-05f6688b8473</guid>
-            <pubDate>Sat, 07 Oct 2017 05:06:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
