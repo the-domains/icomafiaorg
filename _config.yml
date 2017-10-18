@@ -1,10 +1,4 @@
-name: icomafia.org
-layout_spectrum: 0.9489652119872926
 typography_spectrum: 0.9056468995868938
-analytics:
-  facebook: ''
-  google: UA-107039528-1
-  twitter: ''
 color:
   brandColors:
     - '#7D8A2E'
@@ -16,16 +10,25 @@ color:
   lightness: 0.6052240095147402
   saturation: 0.11913864667389062
   rhythmicContrast: 0.5281157378073191
-title: ICO Mafia
-description: Private discussion group focused on improving the ICO industry
+github: true
+layout_spectrum: 0.9489652119872926
+analytics:
+  facebook: ''
+  google: UA-107039528-1
+  twitter: ''
 author:
   name: Mark Vange
   url: 'https://icomafia.org'
   email: mvange@tokeniq.io
+name: icomafia.org
 navigation:
   - name: House Rules
     id: 8a067621-1932-4a19-b737-8e8d51c573f0
     type: content
+  - name: The List
+    id: 9963be28-5e98-40ec-94db-14be11388805
+    type: content
+title: ICO Mafia
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -48,7 +51,7 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-github: true
+description: Private discussion group focused on improving the ICO industry
 purpose:
   - type: external
     url: 'http://icomafia.org/rss.xml'
