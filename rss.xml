@@ -4,9 +4,16 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 Oct 2017 15:02:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2017 00:07:56 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 17 Oct 2017 15:02:16 GMT</pubDate>
+        <pubDate>Wed, 18 Oct 2017 00:07:54 GMT</pubDate>
+        <item>
+            <title><![CDATA[Indexes, Insiders and ICOs]]></title>
+            <description><![CDATA[<article><h1>Indexes, Insiders and ICOs</h1><p>It is very cheap to run an index exchange-traded fund -- you don&apos;t need research or fancy analysts; trading costs are low -- but you do need to pay for an index. If you want to run an S&amp;P 500 ETF, for instance, you&apos;ve got to pay S&amp;P Dow Jones Indices a fee to license their index.</p><img src="https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"></article>]]></description>
+            <link>https://www.bloomberg.com/view/articles/2017-10-17/indexes-insiders-and-icos</link>
+            <guid isPermaLink="false">de09a7c3-44e2-4734-92c9-84c6661f986b</guid>
+            <pubDate>Wed, 18 Oct 2017 00:07:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ICO Goes Extra Mile to Protect Contributors]]></title>
             <description><![CDATA[<article><h1>ICO Goes Extra Mile to Protect Contributors</h1><p>Ask anyone in the crypto-sphere, and they&apos;ll tell you the hot topic these days is regulation. After a couple of years of &apos;wild west&apos; ICO and cryptocurrency explosion, governments have begun to crack down. Yet, some companies are taking the necessary steps to comply with the SEC regulations, thereby assuring their investors that they are a safe company to support.</p><img src="https://cointelegraph.com/images/725_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iYmFkNDAwZjc2ZDY5NTMzYTJlMWU5MzRmODg0Y2E3ZS5qcGc=.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://medium.com/coveidentity/why-and-how-regulators-should-embrace-icos-4a0a25d79cc0</link>
             <guid isPermaLink="false">c5b2c5cb-b43d-4c99-b8ef-01bedd514353</guid>
             <pubDate>Sat, 14 Oct 2017 05:14:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What I Look for as an ICO Advisor - Hacker Noon]]></title>
-            <description><![CDATA[<article><h1>What I Look for as an ICO Advisor - Hacker Noon</h1><p>No matter who you are, it&apos;s hard to decipher between projects that are game-changing and those that are problematic, questionable, and scammy money-grabs. While running the benjaCoin ICO this summer, I was eager to share the experience especially as it related to the topics of governance and regulation.</p><img src="https://cdn-images-1.medium.com/fit/c/120/120/1*76XiKOa05Yya6_CdYX8pVg.jpeg"></article>]]></description>
-            <link>http://hackernoon.com/what-i-look-for-as-an-ico-advisor-26d854e93175</link>
-            <guid isPermaLink="false">2d65d28b-17ac-43de-96be-9658fe7309f9</guid>
-            <pubDate>Sat, 14 Oct 2017 02:08:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
