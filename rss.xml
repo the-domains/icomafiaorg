@@ -4,9 +4,16 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Nov 2017 13:48:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2017 15:21:30 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Nov 2017 13:48:01 GMT</pubDate>
+        <pubDate>Fri, 03 Nov 2017 15:21:29 GMT</pubDate>
+        <item>
+            <title><![CDATA[What is a token sale (ICO)? - Smith + Crown]]></title>
+            <description><![CDATA[<article><h1>What is a token sale (ICO)? - Smith + Crown</h1><p>ICOs (Initial Coin Offerings) have become a popular way to fund cryptocurrency projects. An ICO is an event in which a new cryptocurrency project sells part of its cryptocurrency tokens to early adopters and enthusiasts in exchange for money today. ICOs provide a way for cryptocurrency project creators to raise money for their operations.</p><img src="https://www.smithandcrown.com/wp-content/uploads/2016/07/shutterstock_286343342.jpg"></article>]]></description>
+            <link>https://www.smithandcrown.com/what-is-an-ico/</link>
+            <guid isPermaLink="false">9caa2472-9cd0-446e-84d6-95dd004e7b28</guid>
+            <pubDate>Fri, 03 Nov 2017 15:21:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Blockchain Projects Struggle To Work With Banks]]></title>
             <description><![CDATA[<article><h1>Why Blockchain Projects Struggle To Work With Banks</h1><p>The legal battle over the $232 million Tezos cryptocurrency project has sparked heated debate throughout the blockchain industry about how to manage cryptocurrency funds. Many initial coin offerings divide funds between startups and nonprofit foundations based in tax haven nations like Switzerland, which Tezos did as well.</p><img src="http://s1.ibtimes.com/sites/www.ibtimes.com/files/2017/06/06/bitcoin.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.linkedin.com/pulse/impending-risks-ico-accounting-has-avoiding-treating-simon-cpa-cbp/</link>
             <guid isPermaLink="false">39002fbc-3a6d-495f-8cf5-a7df330e80b5</guid>
             <pubDate>Sat, 14 Oct 2017 21:09:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Institutional Analysis of Popular Features in the Design of Crypto-Token-Economies]]></title>
-            <description><![CDATA[<article><h1>Institutional Analysis of Popular Features in the Design of Crypto-Token-Economies</h1><p>In this short post, which is a part of a work-in-progress on a paper with a similar title, I&apos;ll try to provide an economic analysis, mostly from an institutionalist perspective, on a few popular features of crypto-token-economies. The main features which will be under the &quot;institutional microscope&quot; are hard-caps, and token reserves and injection policy of ecosystems&apos; initiators.</p><img src="https://cdn-images-1.medium.com/max/1600/1*Bdsxl2iVZc_855bv3Ih7ag.jpeg"></article>]]></description>
-            <link>https://medium.com/@boaz.quant/institutional-analysis-of-popular-features-in-the-design-of-crypto-token-economies-7bb2f93e783f</link>
-            <guid isPermaLink="false">b397385b-7fe8-483f-b768-1094d27ccd8d</guid>
-            <pubDate>Sat, 14 Oct 2017 05:16:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
