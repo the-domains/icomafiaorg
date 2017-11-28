@@ -4,9 +4,16 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Nov 2017 00:42:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2017 00:42:45 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Nov 2017 00:42:16 GMT</pubDate>
+        <pubDate>Tue, 28 Nov 2017 00:42:44 GMT</pubDate>
+        <item>
+            <title><![CDATA[DLT vs Blockchain vs Bitcoin Vs ICOs]]></title>
+            <description><![CDATA[<article><h1>DLT vs Blockchain vs Bitcoin Vs ICOs</h1><p>With all the hype around cryptocurrencies/ICOs, some basics are lost in translation. To provide some clarity, we need to make distinctions between the</p><img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAIAAwDGAAAAAQAAAAAAAA3gAAAAJGVmZTViMTU3LWFmY2UtNDkzYy1iODE1LTQxMDFlMDlhZjgxZg.jpg"></article>]]></description>
+            <link>https://www.linkedin.com/pulse/dlt-vs-blockchain-bitcoin-icos-syed-musheer-ahmed</link>
+            <guid isPermaLink="false">ed890744-2a20-42b3-949b-f1f41bbeee27</guid>
+            <pubDate>Tue, 28 Nov 2017 00:42:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Announcing Coinbase Custody: A Digital Currency Custodian For Institutions]]></title>
             <description><![CDATA[<article><h1>Announcing Coinbase Custody: A Digital Currency Custodian For Institutions</h1><p>Today, we&apos;re announcing the launch of a new company to help institutional investors securely store digital assets: Coinbase Custody. Coinbase is already storing more than $9B of digital currency on behalf of our customers, and we&apos;re excited to bring a new product built specifically for institutional investors.</p><img src="https://cdn-images-1.medium.com/max/1200/1*JddNGEaaL8pKLL3CuDKvOw.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://cointelegraph.com/news/virtual-currency-exchanges-and-us-customers-beware-irs-is-coming-expert-blog</link>
             <guid isPermaLink="false">01c200e1-a8b6-415f-b0de-ce176b91fb05</guid>
             <pubDate>Wed, 15 Nov 2017 22:23:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cryptocurrency Mania Fuels Hype and Fear at Venture Firms]]></title>
-            <description><![CDATA[<article><h1>Cryptocurrency Mania Fuels Hype and Fear at Venture Firms</h1><p>Bart Stephens has found himself in high demand lately. After four years of investing in cryptocurrency and preaching its gospel, his venture-capital peers are finally listening. During a recent briefing at a storied Silicon Valley venture-capital firm, the young analysts in the room nodded along to his words in excitement, Stephens says.</p><img src="https://media.wired.com/photos/5a03a8c30a70d83a75d69794/master/pass/cryptocurrency_vc-final.jpg"></article>]]></description>
-            <link>https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/cryptocurrency-mania-fuels-hype-and-fear-at-venture-firms/amp</link>
-            <guid isPermaLink="false">3df7b217-8d1d-49f5-8bd6-d0ec47bf5dfc</guid>
-            <pubDate>Wed, 15 Nov 2017 15:56:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
