@@ -4,9 +4,16 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Nov 2017 00:42:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2017 00:43:46 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Nov 2017 00:42:44 GMT</pubDate>
+        <pubDate>Tue, 28 Nov 2017 00:43:45 GMT</pubDate>
+        <item>
+            <title><![CDATA[October Token Sales: The Market is Maturing and Business is Getting Done - Smith + Crown]]></title>
+            <description><![CDATA[<article><h1>October Token Sales: The Market is Maturing and Business is Getting Done - Smith + Crown</h1><p>Market developments in October suggest the ICO market might be maturing. Of the 165 token sales that were scheduled to close in October 2017, only 40% were completed on time, suggesting a tightening market.</p><img src="https://www.smithandcrown.com/wp-content/uploads/2017/11/Screen-Shot-2017-11-22-at-4.04.52-PM.png"></article>]]></description>
+            <link>https://www.smithandcrown.com/october-token-sales-market-maturing-business-getting-done/</link>
+            <guid isPermaLink="false">853be1f5-4dd6-438a-9851-a79434e5deba</guid>
+            <pubDate>Tue, 28 Nov 2017 00:43:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[DLT vs Blockchain vs Bitcoin Vs ICOs]]></title>
             <description><![CDATA[<article><h1>DLT vs Blockchain vs Bitcoin Vs ICOs</h1><p>With all the hype around cryptocurrencies/ICOs, some basics are lost in translation. To provide some clarity, we need to make distinctions between the</p><img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAIAAwDGAAAAAQAAAAAAAA3gAAAAJGVmZTViMTU3LWFmY2UtNDkzYy1iODE1LTQxMDFlMDlhZjgxZg.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.linkedin.com/pulse/want-refund-tokens-bought-ico-you-may-entitled-one-john-reed-stark/</link>
             <guid isPermaLink="false">b1895ecc-e5f4-4eeb-be11-2ea768016030</guid>
             <pubDate>Sat, 18 Nov 2017 01:16:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Virtual Currency Exchanges and US Customers Beware, IRS is Coming: Expert Blog]]></title>
-            <description><![CDATA[<article><h1>Virtual Currency Exchanges and US Customers Beware, IRS is Coming: Expert Blog</h1><p>In the aftermath of Satoshi Nakamoto&apos;s groundbreaking paper in 2009, money began travelling via a new financial route - virtual currencies. The first Bitcoin exchange was established on February 6, 2010 where Bitcoin traded for the first time for 0.3 cents.</p><img src="https://cointelegraph.com/images/725_aHR0cHM6Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hYWQyNGQyNzA3YTk0YWJhZjk2YWNkMzc3NWIyZDRiMC5qcGc=.jpg"></article>]]></description>
-            <link>https://cointelegraph.com/news/virtual-currency-exchanges-and-us-customers-beware-irs-is-coming-expert-blog</link>
-            <guid isPermaLink="false">01c200e1-a8b6-415f-b0de-ce176b91fb05</guid>
-            <pubDate>Wed, 15 Nov 2017 22:23:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
