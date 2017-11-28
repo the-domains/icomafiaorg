@@ -4,9 +4,16 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Nov 2017 00:40:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2017 00:42:16 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Nov 2017 00:40:36 GMT</pubDate>
+        <pubDate>Tue, 28 Nov 2017 00:42:16 GMT</pubDate>
+        <item>
+            <title><![CDATA[Announcing Coinbase Custody: A Digital Currency Custodian For Institutions]]></title>
+            <description><![CDATA[<article><h1>Announcing Coinbase Custody: A Digital Currency Custodian For Institutions</h1><p>Today, we&apos;re announcing the launch of a new company to help institutional investors securely store digital assets: Coinbase Custody. Coinbase is already storing more than $9B of digital currency on behalf of our customers, and we&apos;re excited to bring a new product built specifically for institutional investors.</p><img src="https://cdn-images-1.medium.com/max/1200/1*JddNGEaaL8pKLL3CuDKvOw.png"></article>]]></description>
+            <link>https://medium.com/@barmstrong/announcing-coinbase-custody-a-digital-currency-custodian-for-institutions-907166d7af85</link>
+            <guid isPermaLink="false">01e75bb7-2e32-43fc-b973-dabe48632c4b</guid>
+            <pubDate>Tue, 28 Nov 2017 00:42:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Exclusive: Nearly 4 Million Bitcoins Lost Forever, New Study Says]]></title>
             <description><![CDATA[<article><h1>Exclusive: Nearly 4 Million Bitcoins Lost Forever, New Study Says</h1><p>Gone for good.</p><img src="https://fortunedotcom.files.wordpress.com/2017/11/lost_bitcoins.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/cryptocurrency-mania-fuels-hype-and-fear-at-venture-firms/amp</link>
             <guid isPermaLink="false">3df7b217-8d1d-49f5-8bd6-d0ec47bf5dfc</guid>
             <pubDate>Wed, 15 Nov 2017 15:56:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Raising Capital through an ICO (Initial Coin Offering)]]></title>
-            <description><![CDATA[<article><h1>Raising Capital through an ICO (Initial Coin Offering)</h1><p>A friend of mine kept nagging me to buy Bitcoin when it was around $900. Honestly, the whole concept of cryptocurrency seemed a little wanky. For</p><img src="https://media.licdn.com/mpr/mpr/AAIABADGAAAAAQAAAAAAAAqSAAAAJDYzZjFkODQ2LTYzNGUtNGQyZi04YTdmLTgyOGM1MjAwOTE0Mg.png"></article>]]></description>
-            <link>https://www.linkedin.com/pulse/raising-capital-through-ico-initial-coin-offering-rich-foreman</link>
-            <guid isPermaLink="false">316f5098-e9b2-4895-a1de-4bf3ac59e922</guid>
-            <pubDate>Wed, 15 Nov 2017 15:54:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
