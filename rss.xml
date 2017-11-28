@@ -4,9 +4,16 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Nov 2017 00:56:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2017 01:31:14 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Nov 2017 00:56:30 GMT</pubDate>
+        <pubDate>Tue, 28 Nov 2017 01:31:12 GMT</pubDate>
+        <item>
+            <title><![CDATA[The SAFT Project]]></title>
+            <description><![CDATA[<article><h1>The SAFT Project</h1><p>The SAFT Project is a forum for the discussion of a compliant framework for token sales. The goal: To develop an industry standard that protects the interests of network creators, investors, and users.</p><img src="http://saft-project.org/static/img/screenshot.png"></article>]]></description>
+            <link>https://saftproject.com/#saft-whitepaper</link>
+            <guid isPermaLink="false">a2e62997-635f-40d9-8a79-9e5bfe23a599</guid>
+            <pubDate>Tue, 28 Nov 2017 01:31:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Blockchain: An opportunity for accountants? Or a threat?]]></title>
             <description><![CDATA[<article><h1>Blockchain: An opportunity for accountants? Or a threat?</h1><p>The emergence of blockchain technology has led to a concern in the CPA profession that is perfectly understandable. Technological advances can threaten people&apos;s livelihoods in any number of professions. The development of the internet had a devastating effect on newspaper journalists, and some experts say self-driving vehicles may cause huge job losses among truck drivers.</p><img src="https://www.journalofaccountancy.com/content/dam/jofa/news/new-blockchain-640.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.nytimes.com/2017/11/26/business/initial-coin-offering-critic.html</link>
             <guid isPermaLink="false">9fe684ab-3246-43e2-9647-152fca1a13f6</guid>
             <pubDate>Tue, 28 Nov 2017 00:36:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Publicly Listed Companies Launch Cryptocurrency Exchanges in South Korea - Bitcoin News]]></title>
-            <description><![CDATA[<article><h1>Japanese Publicly Listed Companies Launch Cryptocurrency Exchanges in South Korea - Bitcoin News</h1><p>Two Japanese companies listed on the Tokyo Stock Exchange have recently expanded their cryptocurrency operations into South Korea. One has partnered with a local company to launch a bitcoin exchange with a plan to add merchant services. The other held an ICO to develop a crypto exchange after launching a mobile game which allows users to earn bitcoin.</p><img src="https://news.bitcoin.com/wp-content/uploads/2017/11/shutterstock_722276218.png"></article>]]></description>
-            <link>https://news.bitcoin.com/japanese-companies-cryptocurrency-exchanges-south-korea/</link>
-            <guid isPermaLink="false">95b88811-10a9-4a6a-8a8e-c4f319eb087e</guid>
-            <pubDate>Sun, 19 Nov 2017 00:06:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
