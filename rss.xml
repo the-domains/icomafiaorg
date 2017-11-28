@@ -4,9 +4,16 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Nov 2017 00:37:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2017 00:37:40 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Nov 2017 00:37:17 GMT</pubDate>
+        <pubDate>Tue, 28 Nov 2017 00:37:39 GMT</pubDate>
+        <item>
+            <title><![CDATA[Ex-SEC Lawyer Predicts 'Assembly Line' for ICO Enforcement]]></title>
+            <description><![CDATA[<article><h1>Ex-SEC Lawyer Predicts &apos;Assembly Line&apos; for ICO Enforcement</h1><p>The Securities and Exchange Commission could be gearing up to drop major actions on issuers of initial coin offerings (ICOs). According to Nicolas Morgan, a former lawyer for the U.S. government agency tasked with regulating the securities industry, the SEC is likely to roll out a sort of &quot;assembly line&quot; of enforcement actions against the nascent industry in the coming years.</p></article>]]></description>
+            <link>https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/sec-icos-nicolas-morgan-paul-hastings/amp/</link>
+            <guid isPermaLink="false">c98cb888-7ae0-4705-852d-82e116136347</guid>
+            <pubDate>Tue, 28 Nov 2017 00:37:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Guest Post: The SEC and ICOs: Winter is Coming | The D&O Diary]]></title>
             <description><![CDATA[<article><h1>Guest Post: The SEC and ICOs: Winter is Coming | The D&amp;O Diary</h1><p>As I noted in a recent post (here), the business pages these days are full of headlines about Initial Coin Offerings (ICOs). Among many issues swirling around ICOs one is the question of how the offerings fit within the overall legal and regulatory framework. In the following guest post, John Reed Stark, President of John ...</p><img src="https://dandodiary.lexblogplatformthree.com/wp-content/uploads/sites/265/2017/11/john-reed-stark-240x300.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://cointelegraph.com/news/ten-tax-tips-for-cryptocurrency-expert-blog</link>
             <guid isPermaLink="false">4b8fcd28-96b4-448b-8381-64a5395de705</guid>
             <pubDate>Sat, 11 Nov 2017 18:32:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Ramped Up Government Scrutiny Killing Initial Coin Offerings?]]></title>
-            <description><![CDATA[<article><h1>Is Ramped Up Government Scrutiny Killing Initial Coin Offerings?</h1><p>As governments across the world, including in China, South Korea, Singapore, Hong Kong and the US, crack down on initial coin offerings (ICOs), should we expect to see a drop in the number of companies looking to raise capital via this route? So far in 2017, ICOs have raised over $3 billion.</p><img src="https://d1-invdn-com.akamaized.net/company_logo/bb8aa238d3b368aabc3f6455eddcd897.jpg"></article>]]></description>
-            <link>https://www.investing.com/analysis/initial-coin-offerings-under-greater-scrutiny-200261385</link>
-            <guid isPermaLink="false">c0083944-f8a2-4438-8cae-e241831377b0</guid>
-            <pubDate>Sat, 11 Nov 2017 18:32:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
