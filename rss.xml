@@ -4,9 +4,16 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Nov 2017 00:05:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Dec 2017 23:23:17 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Nov 2017 00:05:16 GMT</pubDate>
+        <pubDate>Sat, 02 Dec 2017 23:23:16 GMT</pubDate>
+        <item>
+            <title><![CDATA[Scrap the White Paper: How to Evaluate Tokens and Blockchains - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Scrap the White Paper: How to Evaluate Tokens and Blockchains - CoinDesk</h1><p>Rob May is the CEO of Talla.com, the company behind Botchain , a blockchain for managing autonomous intelligent agents and the author of a machine intelligence newsletter If you have spent any time in the cryptocurrency sector, or looking into initial coin offerings (ICOs), you know that the process revolves around &quot;the white paper.&quot;</p><img src="https://media.coindesk.com/uploads/2017/11/scrap-metal-e1512158922213.jpg"></article>]]></description>
+            <link>https://www.coindesk.com/scrap-white-paper-evaluate-tokens-blockchains/</link>
+            <guid isPermaLink="false">8d6ab1c0-e863-4ad7-b60c-048a048750e2</guid>
+            <pubDate>Sat, 02 Dec 2017 23:23:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started? Ether Sets New High Above $500 - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Getting Started? Ether Sets New High Above $500 - CoinDesk</h1><p>Having set fresh record price highs today, ethereum&apos;s native token is looking to push higher. As per CoinDesk&apos;s price index, ether (ETH) moved above $500 at 12:35 UTC and hit an all-time high of $522 soon after. Data from CoinMarketCap shows ETH has appreciated 8.74 percent in the last 24 hours.</p><img src="https://media.coindesk.com/uploads/2017/11/Pause-button.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://thefinanser.com/2017/11/introducing-selfkey.html/</link>
             <guid isPermaLink="false">b2bbb13d-bfb2-424f-b409-6fd0caf5cb90</guid>
             <pubDate>Tue, 28 Nov 2017 00:39:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ex-SEC Lawyer Predicts 'Assembly Line' for ICO Enforcement]]></title>
-            <description><![CDATA[<article><h1>Ex-SEC Lawyer Predicts &apos;Assembly Line&apos; for ICO Enforcement</h1><p>The Securities and Exchange Commission could be gearing up to drop major actions on issuers of initial coin offerings (ICOs). According to Nicolas Morgan, a former lawyer for the U.S. government agency tasked with regulating the securities industry, the SEC is likely to roll out a sort of &quot;assembly line&quot; of enforcement actions against the nascent industry in the coming years.</p></article>]]></description>
-            <link>https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/sec-icos-nicolas-morgan-paul-hastings/amp/</link>
-            <guid isPermaLink="false">c98cb888-7ae0-4705-852d-82e116136347</guid>
-            <pubDate>Tue, 28 Nov 2017 00:37:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
