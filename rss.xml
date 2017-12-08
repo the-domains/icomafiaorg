@@ -4,9 +4,16 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Dec 2017 01:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2017 03:56:41 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 05 Dec 2017 01:18:45 GMT</pubDate>
+        <pubDate>Fri, 08 Dec 2017 03:56:40 GMT</pubDate>
+        <item>
+            <title><![CDATA[Bank of America Wins Patent for Crypto Exchange System - CoinDesk]]></title>
+            <description><![CDATA[<article><h1>Bank of America Wins Patent for Crypto Exchange System - CoinDesk</h1><p>Bank of America may be looking into cryptocurrency exchange services for its corporate clients - or at least keeping its options open should they become interested. In a patent awarded by the U.S. Patent and Trademark Office on Tuesday, the second-largest bank in the U.S.</p><img src="https://media.coindesk.com/uploads/2017/12/Untitled-design-5.jpg"></article>]]></description>
+            <link>https://www.coindesk.com/bank-of-america-outlines-cryptocurrency-exchange-system-in-patent-award/amp/</link>
+            <guid isPermaLink="false">7b4f3940-298e-4959-b6d0-234143a4bb6c</guid>
+            <pubDate>Fri, 08 Dec 2017 03:56:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[CryptoKitties birthing fees increases in order to accommodate demand]]></title>
             <description><![CDATA[<article><h1>CryptoKitties birthing fees increases in order to accommodate demand</h1><p>So you may have noticed that CryptoKitties kind of blew up this weekend - in a good way. You may also have noticed that the Ethereum network also kind of blew up - in a not-so-good way. We want to...</p><img src="https://cdn-images-1.medium.com/max/1200/1*z57YrF43Ug1sbw8airBQzg.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.linkedin.com/pulse/dlt-vs-blockchain-bitcoin-icos-syed-musheer-ahmed</link>
             <guid isPermaLink="false">ed890744-2a20-42b3-949b-f1f41bbeee27</guid>
             <pubDate>Tue, 28 Nov 2017 00:42:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Announcing Coinbase Custody: A Digital Currency Custodian For Institutions]]></title>
-            <description><![CDATA[<article><h1>Announcing Coinbase Custody: A Digital Currency Custodian For Institutions</h1><p>Today, we&apos;re announcing the launch of a new company to help institutional investors securely store digital assets: Coinbase Custody. Coinbase is already storing more than $9B of digital currency on behalf of our customers, and we&apos;re excited to bring a new product built specifically for institutional investors.</p><img src="https://cdn-images-1.medium.com/max/1200/1*JddNGEaaL8pKLL3CuDKvOw.png"></article>]]></description>
-            <link>https://medium.com/@barmstrong/announcing-coinbase-custody-a-digital-currency-custodian-for-institutions-907166d7af85</link>
-            <guid isPermaLink="false">01e75bb7-2e32-43fc-b973-dabe48632c4b</guid>
-            <pubDate>Tue, 28 Nov 2017 00:42:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
