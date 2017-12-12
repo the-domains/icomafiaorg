@@ -4,9 +4,16 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Dec 2017 03:56:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2017 00:23:07 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 08 Dec 2017 03:56:40 GMT</pubDate>
+        <pubDate>Tue, 12 Dec 2017 00:23:06 GMT</pubDate>
+        <item>
+            <title><![CDATA[Statement on Cryptocurrencies and Initial Coin Offerings]]></title>
+            <description><![CDATA[<article><h1>Statement on Cryptocurrencies and Initial Coin Offerings</h1><p>The world&apos;s social media platforms and financial markets are abuzz about cryptocurrencies and &quot;initial coin offerings&quot; ( ICOs). There are tales of fortunes made and dreamed to be made. We are hearing the familiar refrain, &quot;this time is different.&quot; The cryptocurrency and ICO markets have grown rapidly.</p></article>]]></description>
+            <link>https://www.sec.gov/news/public-statement/statement-clayton-2017-12-11</link>
+            <guid isPermaLink="false">23bfcf55-5045-42c4-808a-f50fea5e2ab7</guid>
+            <pubDate>Tue, 12 Dec 2017 00:23:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bank of America Wins Patent for Crypto Exchange System - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Bank of America Wins Patent for Crypto Exchange System - CoinDesk</h1><p>Bank of America may be looking into cryptocurrency exchange services for its corporate clients - or at least keeping its options open should they become interested. In a patent awarded by the U.S. Patent and Trademark Office on Tuesday, the second-largest bank in the U.S.</p><img src="https://media.coindesk.com/uploads/2017/12/Untitled-design-5.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.smithandcrown.com/october-token-sales-market-maturing-business-getting-done/</link>
             <guid isPermaLink="false">853be1f5-4dd6-438a-9851-a79434e5deba</guid>
             <pubDate>Tue, 28 Nov 2017 00:43:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DLT vs Blockchain vs Bitcoin Vs ICOs]]></title>
-            <description><![CDATA[<article><h1>DLT vs Blockchain vs Bitcoin Vs ICOs</h1><p>With all the hype around cryptocurrencies/ICOs, some basics are lost in translation. To provide some clarity, we need to make distinctions between the</p><img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAIAAwDGAAAAAQAAAAAAAA3gAAAAJGVmZTViMTU3LWFmY2UtNDkzYy1iODE1LTQxMDFlMDlhZjgxZg.jpg"></article>]]></description>
-            <link>https://www.linkedin.com/pulse/dlt-vs-blockchain-bitcoin-icos-syed-musheer-ahmed</link>
-            <guid isPermaLink="false">ed890744-2a20-42b3-949b-f1f41bbeee27</guid>
-            <pubDate>Tue, 28 Nov 2017 00:42:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
