@@ -4,9 +4,16 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Dec 2017 00:25:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2017 00:26:15 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 12 Dec 2017 00:25:29 GMT</pubDate>
+        <pubDate>Tue, 12 Dec 2017 00:26:13 GMT</pubDate>
+        <item>
+            <title><![CDATA[Credit Suisse - ICOs Sorta Like VC - ValueWalk]]></title>
+            <description><![CDATA[<article><h1>Credit Suisse - ICOs Sorta Like VC - ValueWalk</h1><p>Paul Condra and Ria Bhutoria, research analysts at Credit Suisse, might be looking at Initial Coin Offerings (ICO) from an institutional standpoint and scratching their head. In a December 8 report they point to the top ten tokens issued being ...</p><img src="http://www.valuewalk.com/wp-content/uploads/2017/12/CS-12-8-ICO-1.jpg"></article>]]></description>
+            <link>http://www.valuewalk.com/2017/12/credit-suisse-icos-sorta-like-vc/</link>
+            <guid isPermaLink="false">ead7afa3-7f68-4d2d-825c-b5f86b9522e0</guid>
+            <pubDate>Tue, 12 Dec 2017 00:26:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Forget Bitcoin: IOTA Just Partnered With 5 Brand-Name Companies on a New Project]]></title>
             <description><![CDATA[<article><h1>Forget Bitcoin: IOTA Just Partnered With 5 Brand-Name Companies on a New Project</h1><p>We&apos;re just three weeks from turning the calendar on 2017, but cryptocurrency price appreciation has shown absolutely no signs of slowing. While marijuana and cloud-computing stocks have impressed, they can&apos;t hold a candle to the 2,050% return in the aggregate cryptocurrency market cap ($17.7 billion to $380 billion) since the year began.</p><img src="https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F465871%2Fblockchain-bitcoin-ethereum-cryptocurrency-getty.jpg&h=630&w=1200&op=resize"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.cnbc.com/2017/11/29/federal-reserve-starting-to-think-about-its-own-digital-currency-dudley-says.html</link>
             <guid isPermaLink="false">203d1b5c-e3ad-4e58-a35b-d9890730e3bd</guid>
             <pubDate>Thu, 30 Nov 2017 00:05:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The SAFT Project]]></title>
-            <description><![CDATA[<article><h1>The SAFT Project</h1><p>The SAFT Project is a forum for the discussion of a compliant framework for token sales. The goal: To develop an industry standard that protects the interests of network creators, investors, and users.</p><img src="http://saft-project.org/static/img/screenshot.png"></article>]]></description>
-            <link>https://saftproject.com/#saft-whitepaper</link>
-            <guid isPermaLink="false">a2e62997-635f-40d9-8a79-9e5bfe23a599</guid>
-            <pubDate>Tue, 28 Nov 2017 01:31:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
