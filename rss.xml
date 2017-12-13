@@ -4,9 +4,16 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Dec 2017 02:54:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2017 03:28:50 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 13 Dec 2017 02:54:34 GMT</pubDate>
+        <pubDate>Wed, 13 Dec 2017 03:28:48 GMT</pubDate>
+        <item>
+            <title><![CDATA[Grid+]]></title>
+            <description><![CDATA[<article><h1>Grid+</h1><img src="http://gridplus.io/images/logo-color.png"></article>]]></description>
+            <link>https://gridplus.io/</link>
+            <guid isPermaLink="false">34d47a63-7668-4ef9-ba4c-4716d3ac04a8</guid>
+            <pubDate>Wed, 13 Dec 2017 03:28:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tezos board member resigns, fueling turmoil at cryptocurrency startup]]></title>
             <description><![CDATA[<article><h1>Tezos board member resigns, fueling turmoil at cryptocurrency startup</h1><p>LONDON/ZURICH (Reuters) - One of the three board members of the Swiss foundation that conducted the online fundraiser for the embattled Tezos cryptocurrency tech project has resigned, Reuters has learned. The departure on Monday of Guido Schmitz-Krummacher, a Swiss legal and management expert, is likely to add further turmoil to the project, which raised $232 million in cryptocurrencies in July.</p><img src="https://www.reuters.com/resources/r/?m=02&d=20171212&t=2&i=1213933236&w=400&r=LYNXMPEDBB1GT"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.sec.gov/news/public-statement/statement-clayton-2017-12-11</link>
             <guid isPermaLink="false">23bfcf55-5045-42c4-808a-f50fea5e2ab7</guid>
             <pubDate>Tue, 12 Dec 2017 00:23:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bank of America Wins Patent for Crypto Exchange System - CoinDesk]]></title>
-            <description><![CDATA[<article><h1>Bank of America Wins Patent for Crypto Exchange System - CoinDesk</h1><p>Bank of America may be looking into cryptocurrency exchange services for its corporate clients - or at least keeping its options open should they become interested. In a patent awarded by the U.S. Patent and Trademark Office on Tuesday, the second-largest bank in the U.S.</p><img src="https://media.coindesk.com/uploads/2017/12/Untitled-design-5.jpg"></article>]]></description>
-            <link>https://www.coindesk.com/bank-of-america-outlines-cryptocurrency-exchange-system-in-patent-award/amp/</link>
-            <guid isPermaLink="false">7b4f3940-298e-4959-b6d0-234143a4bb6c</guid>
-            <pubDate>Fri, 08 Dec 2017 03:56:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
