@@ -4,9 +4,16 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Dec 2017 03:28:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2017 05:41:53 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 13 Dec 2017 03:28:48 GMT</pubDate>
+        <pubDate>Fri, 15 Dec 2017 05:41:51 GMT</pubDate>
+        <item>
+            <title><![CDATA[Four Years of Token Sales, Visualized in One Graphic]]></title>
+            <description><![CDATA[<article><h1>Four Years of Token Sales, Visualized in One Graphic</h1><p>Interactive version / Youtube This graphic shows every token sale that successfully raised at least $100k, from the beginning of 2014 through the end of last month, November 2017. The bar chart at the bottom displays the total dollar amount raised in each month (details below).</p><img src="https://s3.us-east-2.amazonaws.com/elementus-assets/token-sales-thumbnail.png"></article>]]></description>
+            <link>https://elementus.io/token-sales-history</link>
+            <guid isPermaLink="false">fa1a1dcf-2ce7-460a-893e-db2a1eebf5a5</guid>
+            <pubDate>Fri, 15 Dec 2017 05:41:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Grid+]]></title>
             <description><![CDATA[<article><h1>Grid+</h1><img src="http://gridplus.io/images/logo-color.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.theverge.com/2017/12/11/16761056/sham-version-myetherwallet-apple-app-store</link>
             <guid isPermaLink="false">c3d4dde7-89e7-4ba8-a40d-d2f4f2c0043c</guid>
             <pubDate>Tue, 12 Dec 2017 00:24:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Statement on Cryptocurrencies and Initial Coin Offerings]]></title>
-            <description><![CDATA[<article><h1>Statement on Cryptocurrencies and Initial Coin Offerings</h1><p>The world&apos;s social media platforms and financial markets are abuzz about cryptocurrencies and &quot;initial coin offerings&quot; ( ICOs). There are tales of fortunes made and dreamed to be made. We are hearing the familiar refrain, &quot;this time is different.&quot; The cryptocurrency and ICO markets have grown rapidly.</p></article>]]></description>
-            <link>https://www.sec.gov/news/public-statement/statement-clayton-2017-12-11</link>
-            <guid isPermaLink="false">23bfcf55-5045-42c4-808a-f50fea5e2ab7</guid>
-            <pubDate>Tue, 12 Dec 2017 00:23:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
