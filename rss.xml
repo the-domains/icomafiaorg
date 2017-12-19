@@ -4,9 +4,16 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Dec 2017 17:38:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2017 22:42:26 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 19 Dec 2017 17:38:40 GMT</pubDate>
+        <pubDate>Tue, 19 Dec 2017 22:42:25 GMT</pubDate>
+        <item>
+            <title><![CDATA[Bonanza or bubble?]]></title>
+            <description><![CDATA[<article><h1>Bonanza or bubble?</h1><p>Bitcoin and other cryptocurrencies, initial coin offerings (ICO) and virtual tokens are creating a buzz worldwide and Asia is no exception. Practical daily applications are already emerging, some as mundane as paying for a Big Mac in Thailand, while governments wrestle with the bigger issues related to security and financial regulation.</p><img src="https://www.bangkokpost.com/media/content/dcx/2017/12/18/2581687_620x413.jpg"></article>]]></description>
+            <link>https://www.bangkokpost.com/business/news/1380891/bonanza-or-bubble-</link>
+            <guid isPermaLink="false">4b462b6e-8369-4c81-91d6-7e86f1cf1592</guid>
+            <pubDate>Tue, 19 Dec 2017 22:42:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Crypto Collectables? Ethereum's Next Killer App Is on Its Way - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Crypto Collectables? Ethereum&apos;s Next Killer App Is on Its Way - CoinDesk</h1><p>As silly as it might sound, the popular CryptoKitties app might foreshadow a powerful up-and-coming use case for ethereum - digital collectibles. After its launch last week, CryptoKitties quickly became the most popular ethereum app - so popular in fact that there&apos;s now CryptoPuppies (for those that prefer man&apos;s &quot;real best friend&quot;), and CryptoPets (which lets users choose any kind of digital animal pet they prefer).</p><img src="https://media.coindesk.com/uploads/2017/12/pokemon-toys-e1513106426589.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.reuters.com/article/us-bitcoin-tezos-board/tezos-director-resigns-sowing-more-uncertainty-at-crypto-startup-idUSKBN1E62KN</link>
             <guid isPermaLink="false">2993eb77-cfbc-4721-8046-d040187455f8</guid>
             <pubDate>Wed, 13 Dec 2017 02:54:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Everything you need to know about Bitcoin, its mysterious origins, and the many alleged identities of its creator]]></title>
-            <description><![CDATA[<article><h1>Everything you need to know about Bitcoin, its mysterious origins, and the many alleged identities of its creator</h1><p>Since it was created in 2009, Bitcoin has experienced significant highs and lows. Just this week, the cryptocurrency surpassed an $11,000 evaluation for the first time in history. Bitcoin is considered the preeminent cryptocurrency in the world, but there&apos;s still plenty of mystery surrounding its creation. Who came up with Bitcoin?</p><img src="http://static1.businessinsider.com/image/5a1f151a3dbef41d008b8f6b-1190-625/everything-you-need-to-know-about-bitcoin-its-mysterious-origins-and-the-many-alleged-identities-of-its-creator.jpg"></article>]]></description>
-            <link>http://www.businessinsider.com/bitcoin-history-cryptocurrency-satoshi-nakamoto-2017-12</link>
-            <guid isPermaLink="false">54bbfa6b-4928-4f2e-aee9-285b35f6a987</guid>
-            <pubDate>Wed, 13 Dec 2017 02:26:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
