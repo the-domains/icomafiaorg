@@ -4,9 +4,16 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Dec 2017 14:52:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2017 14:53:55 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 19 Dec 2017 14:52:49 GMT</pubDate>
+        <pubDate>Tue, 19 Dec 2017 14:53:54 GMT</pubDate>
+        <item>
+            <title><![CDATA[Redirecting]]></title>
+            <description><![CDATA[<article><h1>Redirecting</h1><p>Redirecting you to https://www.bloomberg.com/amp/news/articles/2017-12-18/europe-wants-to-regulate-bitcoin-to-clamp-down-on-illegal-risks</p></article>]]></description>
+            <link>https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2017-12-18/europe-wants-to-regulate-bitcoin-to-clamp-down-on-illegal-risks</link>
+            <guid isPermaLink="false">bae64306-0c1b-4c6c-a443-46300d0917b4</guid>
+            <pubDate>Tue, 19 Dec 2017 14:53:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Observations on the Geography of Token Sales - Smith + Crown]]></title>
             <description><![CDATA[<article><h1>Observations on the Geography of Token Sales - Smith + Crown</h1><p>By any measure, 2017 has seen tremendous growth in the cryptocurrency space and particularly in regards to token sales, often referred to as initial coin offerings or simply ICOs.</p><img src="https://www.smithandcrown.com/wp-content/uploads/2017/10/Screen-Shot-2017-10-26-at-12.43.30-PM.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.coindesk.com/crowdfunding-giant-indiegogo-opens-platform-icos/</link>
             <guid isPermaLink="false">1f0e4764-b4ee-4ad5-89c3-227aff0b5dba</guid>
             <pubDate>Wed, 13 Dec 2017 02:26:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Credit Suisse - ICOs Sorta Like VC - ValueWalk]]></title>
-            <description><![CDATA[<article><h1>Credit Suisse - ICOs Sorta Like VC - ValueWalk</h1><p>Paul Condra and Ria Bhutoria, research analysts at Credit Suisse, might be looking at Initial Coin Offerings (ICO) from an institutional standpoint and scratching their head. In a December 8 report they point to the top ten tokens issued being ...</p><img src="http://www.valuewalk.com/wp-content/uploads/2017/12/CS-12-8-ICO-1.jpg"></article>]]></description>
-            <link>http://www.valuewalk.com/2017/12/credit-suisse-icos-sorta-like-vc/</link>
-            <guid isPermaLink="false">ead7afa3-7f68-4d2d-825c-b5f86b9522e0</guid>
-            <pubDate>Tue, 12 Dec 2017 00:26:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
