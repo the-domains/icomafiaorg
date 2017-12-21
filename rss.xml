@@ -4,9 +4,16 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Dec 2017 22:42:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2017 15:08:35 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 19 Dec 2017 22:42:36 GMT</pubDate>
+        <pubDate>Thu, 21 Dec 2017 15:08:33 GMT</pubDate>
+        <item>
+            <title><![CDATA[The Blockchain Will Do to the Financial System What the Internet Did to Media]]></title>
+            <description><![CDATA[<article><h1>The Blockchain Will Do to the Financial System What the Internet Did to Media</h1><p>Even years into the deployment of the internet, many believed that it was still a fad. Of course, the internet has since become a major influence on our lives, from how we buy goods and services, to the ways we socialize with friends, to the Arab Spring, to the 2016 U.S.</p><img src="https://hbr.org/resources/images/article_assets/2017/03/mar17-08-477201989.jpg"></article>]]></description>
+            <link>https://hbr.org/2017/03/the-blockchain-will-do-to-banks-and-law-firms-what-the-internet-did-to-media</link>
+            <guid isPermaLink="false">c6fd96c5-0bc5-497e-b334-a74efbebe1df</guid>
+            <pubDate>Thu, 21 Dec 2017 15:08:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA["Follow the Money - What Coins will be Added to Coinbase?" by trader goldbug1 - published December 16, 2017 - TradingView]]></title>
             <description><![CDATA[<article><h1>&quot;Follow the Money - What Coins will be Added to Coinbase?&quot; by trader goldbug1 - published December 16, 2017 - TradingView</h1><p>Bitcoin Cash / Dollar (POLONIEX:BCHUSD). Get more trading ideas from goldbug1. Follow market experts, get opinions and be heard! Join the largest trading &amp; investing community on the planet.</p><img src="https://s3.amazonaws.com/tradingview/5/5qpnQ3yB_171_121.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://elementus.io/token-sales-history</link>
             <guid isPermaLink="false">fa1a1dcf-2ce7-460a-893e-db2a1eebf5a5</guid>
             <pubDate>Fri, 15 Dec 2017 05:41:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Grid+]]></title>
-            <description><![CDATA[<article><h1>Grid+</h1><img src="http://gridplus.io/images/logo-color.png"></article>]]></description>
-            <link>https://gridplus.io/</link>
-            <guid isPermaLink="false">34d47a63-7668-4ef9-ba4c-4716d3ac04a8</guid>
-            <pubDate>Wed, 13 Dec 2017 03:28:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
