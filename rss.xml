@@ -4,9 +4,16 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Jan 2018 19:05:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2018 19:05:28 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 19 Jan 2018 19:05:25 GMT</pubDate>
+        <pubDate>Fri, 19 Jan 2018 19:05:27 GMT</pubDate>
+        <item>
+            <title><![CDATA[Hackers Have Walked Off With About 14% of Big Digital Currencies]]></title>
+            <description><![CDATA[<article><h1>Hackers Have Walked Off With About 14% of Big Digital Currencies</h1><p>Digital currencies and the software developed to track them have become attractive targets for cybercriminals while also creating a lucrative new market for computer-security firms. In less than a decade, hackers have stolen $1.2 billion worth of Bitcoin and rival currency Ether, according to Lex Sokolin, global director of fintech strategy at Autonomous Research LLP.</p><img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9nZjENGh9YU/v0/1200x800.jpg"></article>]]></description>
+            <link>https://www.bloomberg.com/news/articles/2018-01-18/hackers-have-walked-off-with-about-14-of-big-digital-currencies</link>
+            <guid isPermaLink="false">84009443-c120-4569-b94f-4c8b10e7a548</guid>
+            <pubDate>Fri, 19 Jan 2018 19:05:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The SEC Wants Answers Before It Approves Bitcoin-Based Futures]]></title>
             <description><![CDATA[<article><h1>The SEC Wants Answers Before It Approves Bitcoin-Based Futures</h1><p>Joint statements today from both the Securities Exchange Commission (SEC) and the Commodities Futures Trading Commission (CFTC) have effectively put a freeze on cryptocurrency futures trading. The statements come after several crypto-based exchange-traded futures (ETFs) proposals were withdrawn last week, at the encouragement of the SEC.</p><img src="https://i.kinja-img.com/gawker-media/image/upload/s--fiNfOwpS--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/re8cb40uznquavmipzk6.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://fortune.com/2017/12/17/cryptocurrency-floyd-mayweather-centra-lawsuit/</link>
             <guid isPermaLink="false">56d4be87-af8a-4967-a9ef-9aa4efbc43c3</guid>
             <pubDate>Tue, 19 Dec 2017 14:55:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Korean cryptocurrency exchange to close after second hacking in a year]]></title>
-            <description><![CDATA[<article><h1>Korean cryptocurrency exchange to close after second hacking in a year</h1><p>A South Korean cryptocurrency exchange is to file for bankruptcy after it was hacked for the second time this year, highlighting concerns about security amid booming trade in bitcoin and other virtual currencies.</p><img src="https://i.guim.co.uk/img/media/3c85b5db7cb852a0d45afa90049ed3b1b34c61a3/0_0_4000_2399/master/4000.jpg?w=1200&h=630&q=55&auto=format&usm=12&fit=crop&crop=faces%2Centropy&bm=normal&ba=bottom%2Cleft&blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&s=d811cb2aea4de34b3964256c4cfc4a2e"></article>]]></description>
-            <link>https://www.theguardian.com/technology/2017/dec/19/korean-cryptocurrency-exchange-close-second-hacking-youbit</link>
-            <guid isPermaLink="false">a5641b75-0d74-4687-88c8-fdb5b859a6ff</guid>
-            <pubDate>Tue, 19 Dec 2017 14:53:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
