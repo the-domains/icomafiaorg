@@ -4,9 +4,16 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 16 Feb 2018 14:35:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Feb 2018 19:40:18 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 16 Feb 2018 14:35:56 GMT</pubDate>
+        <pubDate>Fri, 16 Feb 2018 19:40:17 GMT</pubDate>
+        <item>
+            <title><![CDATA[Digital Currency and Blockchain: How are Financial Institutions Responding?]]></title>
+            <description><![CDATA[<article><h1>Digital Currency and Blockchain: How are Financial Institutions Responding?</h1><p>Perhaps the industry most obviously threatened by blockchain is banking and financial services. Digital currencies and blockchain platforms are by nature in the business of putting financial overlords out of business. If individuals and institutions can transact directly at a significantly lower cost due to the removal of exchange middlemen, then there is less of a need for traditional banks and other controllers of the money game.</p><img src="https://cdn-images-1.medium.com/max/2000/1*oWw1LbUgewXGY5uLrpI80A.jpeg"></article>]]></description>
+            <link>https://shift.newco.co/digital-currency-and-blockchain-how-are-financial-institutions-responding-71091b2772c3</link>
+            <guid isPermaLink="false">8bdba12f-de7a-44b6-9a90-d6af14d56fd9</guid>
+            <pubDate>Fri, 16 Feb 2018 19:40:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Coinbase is erratically overcharging some users and emptying their bank accounts]]></title>
             <description><![CDATA[<article><h1>Coinbase is erratically overcharging some users and emptying their bank accounts</h1><p>A growing number of Coinbase customers are complaining that the cryptocurrency exchange withdrew unauthorized money out of their accounts. In some cases, this drained their linked bank accounts below zero, resulting in overdraft charges. In a typical anecdote posted on Reddit, one user said they purchased Bitcoin, Ether, and Litecoin for a total of $300 on February 9th.</p><img src="https://cdn.vox-cdn.com/uploads/chorus_image/image/58709295/846660080.jpg.0.jpg"></article>]]></description>
@@ -43,17 +50,17 @@
             <pubDate>Fri, 16 Feb 2018 14:35:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Japan Cracks Down on Foreign ICO Agency Operating Without License - Bitcoin News]]></title>
-            <description><![CDATA[<article><h1>Japan Cracks Down on Foreign ICO Agency Operating Without License - Bitcoin News</h1><p>The Japanese financial regulator will be issuing its first warning since the legalization of cryptocurrencies as a method of payment in Japan. An overseas initial coin offering agency has reportedly been attracting Japanese investors without a license, repeatedly ignoring the agency&apos;s advice to cease operating in the country.</p><img src="https://news.bitcoin.com/wp-content/uploads/2018/02/FSA-warning-banner1.png"></article>]]></description>
-            <link>https://news.bitcoin.com/japan-cracks-foreign-ico-agency-operating-without-license/</link>
-            <guid isPermaLink="false">684921f5-b291-4de1-9904-9078a7fad14d</guid>
-            <pubDate>Fri, 16 Feb 2018 14:35:48 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Western Union Confirms XRP Integration of Ripple Blockchain Trial]]></title>
             <description><![CDATA[<article><h1>Western Union Confirms XRP Integration of Ripple Blockchain Trial</h1><p>Get Trading Recommendations and Read Analysis on Hacked.com for just $39 per month. Western Union has formally confirmed that its Ripple-based blockchain trial will include XRP integration, making the money transfer giant the largest firm to test XRP in its internal payment flows. As CCN reported, Western Union confirmed rumors about the partnership on Wednesday.</p><img src="https://www.ccn.com/wp-content/uploads/2017/05/Western-Union-NY.jpg"></article>]]></description>
             <link>https://www.ccn.com/western-union-confirms-ripple-blockchain-trial-will-feature-xrp-integration/</link>
             <guid isPermaLink="false">b5a6a598-de16-4976-af9f-bda6457ba64d</guid>
+            <pubDate>Fri, 16 Feb 2018 14:35:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Japan Cracks Down on Foreign ICO Agency Operating Without License - Bitcoin News]]></title>
+            <description><![CDATA[<article><h1>Japan Cracks Down on Foreign ICO Agency Operating Without License - Bitcoin News</h1><p>The Japanese financial regulator will be issuing its first warning since the legalization of cryptocurrencies as a method of payment in Japan. An overseas initial coin offering agency has reportedly been attracting Japanese investors without a license, repeatedly ignoring the agency&apos;s advice to cease operating in the country.</p><img src="https://news.bitcoin.com/wp-content/uploads/2018/02/FSA-warning-banner1.png"></article>]]></description>
+            <link>https://news.bitcoin.com/japan-cracks-foreign-ico-agency-operating-without-license/</link>
+            <guid isPermaLink="false">684921f5-b291-4de1-9904-9078a7fad14d</guid>
             <pubDate>Fri, 16 Feb 2018 14:35:48 GMT</pubDate>
         </item>
         <item>
@@ -69,13 +76,6 @@
             <link>http://bitcoinist.com/qtum-is-pushing-to-become-the-biggest-player-in-the-asian-market/</link>
             <guid isPermaLink="false">a05c63d2-16c4-48cc-8c62-5db8902de802</guid>
             <pubDate>Fri, 16 Feb 2018 14:35:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cryptocurrency User Survey]]></title>
-            <description><![CDATA[<article><h1>Cryptocurrency User Survey</h1><p>Web survey powered by SurveyMonkey.com. Create your own online survey now with SurveyMonkey&apos;s expert certified FREE templates.</p><img src="https://secure.surveymonkey.com/assets/responseweb/smlib.globaltemplates/6.0.0/assets/sm_logo_fb.png"></article>]]></description>
-            <link>https://www.surveymonkey.com/r/FinFabrik_crypto_survey</link>
-            <guid isPermaLink="false">b22da582-1b0b-44ea-8807-1bbd2603e3aa</guid>
-            <pubDate>Sat, 03 Feb 2018 03:52:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
