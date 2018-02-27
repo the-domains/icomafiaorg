@@ -4,9 +4,16 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 16 Feb 2018 19:40:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2018 03:01:23 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 16 Feb 2018 19:40:17 GMT</pubDate>
+        <pubDate>Tue, 27 Feb 2018 03:01:21 GMT</pubDate>
+        <item>
+            <title><![CDATA[Smart Contracts Might Not Be as Smart as You Think]]></title>
+            <description><![CDATA[<article><h1>Smart Contracts Might Not Be as Smart as You Think</h1><p>Smart contracts are supposed to be just that: smart. However, some smart contracts currently circulating aren&apos;t quite making the grade - with vulnerabilities exposing millions of dollars worth of Ethereum to potential theft. Smart contracts are computer protocols meant to digitally facilitate, verify, or enforce the execution of contracts.</p><img src="http://bitcoinist.com/wp-content/uploads/2018/01/as-ethereum-dollar.jpg"></article>]]></description>
+            <link>http://bitcoinist.com/smart-contracts-might-not-smart-think/</link>
+            <guid isPermaLink="false">39cd193e-6c65-428f-9198-17cbf70a542f</guid>
+            <pubDate>Tue, 27 Feb 2018 03:01:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Digital Currency and Blockchain: How are Financial Institutions Responding?]]></title>
             <description><![CDATA[<article><h1>Digital Currency and Blockchain: How are Financial Institutions Responding?</h1><p>Perhaps the industry most obviously threatened by blockchain is banking and financial services. Digital currencies and blockchain platforms are by nature in the business of putting financial overlords out of business. If individuals and institutions can transact directly at a significantly lower cost due to the removal of exchange middlemen, then there is less of a need for traditional banks and other controllers of the money game.</p><img src="https://cdn-images-1.medium.com/max/2000/1*oWw1LbUgewXGY5uLrpI80A.jpeg"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Why Nano Vision Might Be The Most Important Crypto Company For Mankind</h1><p>Richard K. Yu with Studypool recently brought up some salient, if somewhat deflating points for the crypto world. First, much of blockchain&apos;s meteoric rise-bitcoin&apos;s price climbing to $20,000, 235 ICOs debuting in 2017-has the characteristics of a market bubble. A bubble eventually pops, which means that many of today&apos;s hot new blockchain products will be fail.</p><img src="https://s3.amazonaws.com/influencive.com/wp-content/uploads/2018/01/31135619/unnamed1.jpg"></article>]]></description>
             <link>https://www.influencive.com/nano-vision-might-important-crypto-company-mankind/</link>
             <guid isPermaLink="false">3a6eeac3-0a45-492f-b309-b94ae0177e5b</guid>
-            <pubDate>Fri, 16 Feb 2018 14:35:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Qtum is Pushing to Become the Biggest Player in the Asian Market]]></title>
-            <description><![CDATA[<article><h1>Qtum is Pushing to Become the Biggest Player in the Asian Market</h1><p>The Qtum Foundation has announced a collaborative venture with fellow Singapore-based SpaceChain Foundation to enable the launch of a standardized CubeSat. This will most significantly enable Qtum wallet holders to employ Qtum&apos;s blockchain technology on the UK-developed Raspberry Pi device.</p><img src="http://bitcoinist.com/wp-content/uploads/2018/02/ss-asia-space.jpg"></article>]]></description>
-            <link>http://bitcoinist.com/qtum-is-pushing-to-become-the-biggest-player-in-the-asian-market/</link>
-            <guid isPermaLink="false">a05c63d2-16c4-48cc-8c62-5db8902de802</guid>
             <pubDate>Fri, 16 Feb 2018 14:35:48 GMT</pubDate>
         </item>
     </channel>
