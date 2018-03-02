@@ -4,9 +4,23 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Mar 2018 00:50:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Mar 2018 00:50:37 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 02 Mar 2018 00:50:06 GMT</pubDate>
+        <pubDate>Fri, 02 Mar 2018 00:50:36 GMT</pubDate>
+        <item>
+            <title><![CDATA[Stablecoins: designing a price-stable cryptocurrency]]></title>
+            <description><![CDATA[<article><h1>Stablecoins: designing a price-stable cryptocurrency</h1><p>A useful currency should be a medium of exchange, a unit of account, and a store of value. Cryptocurrencies excel at the first, but as a store of value or unit of account, they&apos;re pretty bad. You cannot be an effective store of value if your price fluctuates by 20% on a normal day.</p><img src="https://cdn-images-1.medium.com/max/1200/1*PovHvcYtqeuKC8vXhZlrXg.png"></article>]]></description>
+            <link>https://hackernoon.com/stablecoins-designing-a-price-stable-cryptocurrency-6bf24e2689e5</link>
+            <guid isPermaLink="false">303fb04f-d14d-48bd-acc0-b27dba1c1134</guid>
+            <pubDate>Fri, 02 Mar 2018 00:50:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Game Developer Atari Unveils Blockchain-Fueled Dual-Cryptocurrency Gaming Reboot]]></title>
+            <description><![CDATA[<article><h1>Game Developer Atari Unveils Blockchain-Fueled Dual-Cryptocurrency Gaming Reboot</h1><p>Get Trading Recommendations and Read Analysis on Hacked.com for just $39 per month. The video game console for hits like eighties favorite Pac-Man is readying a pair of digital tokens, which is likely to rack up points with investors. The Atari Group revealed a two-pronged initiative for which it has inked a couple of partnerships involving not one but two cryptocurrencies.</p><img src="https://www.ccn.com/wp-content/uploads/2018/02/Atari-console.jpg"></article>]]></description>
+            <link>https://www.ccn.com/atari-unveils-blockchain-fueled-dual-token-gaming-reboot/</link>
+            <guid isPermaLink="false">36f8abf7-2bdb-4b8e-bf20-9414316d22fd</guid>
+            <pubDate>Fri, 02 Mar 2018 00:50:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Women in Cryptocurrencies Push Back Against 'Blockchain Bros']]></title>
             <description><![CDATA[<article><h1>Women in Cryptocurrencies Push Back Against &apos;Blockchain Bros&apos;</h1><p>That means the budding world is already in danger of looking like the rest of the technology industry, where women are decidedly a minority. Some studies estimate that women account for only 4 percent to 6 percent of blockchain investors.</p><img src="https://static01.nyt.com/images/2018/02/26/business/26CRYPTOWOMEN1/26CRYPTOWOMEN1-facebookJumbo.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <description><![CDATA[<article><h1>Bitcoin, Ethereum, Bitcoin Cash, Ripple, Stellar, Litecoin, NEM, NEO, EOS: Price Analysis, February 2, 2018</h1><p>There are various reasons behind the panic currently gripping the crypto world - increased regulations, hacking, and crackdown by various governments. Additionally, the last leg of the rally looked frothy as traders gobbled up cryptocurrencies at crazy levels out of fear of missing out on the rally.</p><img src="https://cointelegraph.com/storage/uploads/view/8d3a81f02185989511bd0ed8e768cc0c.png"></article>]]></description>
             <link>https://cointelegraph.com/news/bitcoin-ethereum-bitcoin-cash-ripple-stellar-litecoin-nem-neo-eos-price-analysis-february-2-2018</link>
             <guid isPermaLink="false">30423861-95da-4827-a034-9969b6649041</guid>
-            <pubDate>Fri, 16 Feb 2018 14:35:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Western Union Confirms XRP Integration of Ripple Blockchain Trial]]></title>
-            <description><![CDATA[<article><h1>Western Union Confirms XRP Integration of Ripple Blockchain Trial</h1><p>Get Trading Recommendations and Read Analysis on Hacked.com for just $39 per month. Western Union has formally confirmed that its Ripple-based blockchain trial will include XRP integration, making the money transfer giant the largest firm to test XRP in its internal payment flows. As CCN reported, Western Union confirmed rumors about the partnership on Wednesday.</p><img src="https://www.ccn.com/wp-content/uploads/2017/05/Western-Union-NY.jpg"></article>]]></description>
-            <link>https://www.ccn.com/western-union-confirms-ripple-blockchain-trial-will-feature-xrp-integration/</link>
-            <guid isPermaLink="false">b5a6a598-de16-4976-af9f-bda6457ba64d</guid>
-            <pubDate>Fri, 16 Feb 2018 14:35:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Japan Cracks Down on Foreign ICO Agency Operating Without License - Bitcoin News]]></title>
-            <description><![CDATA[<article><h1>Japan Cracks Down on Foreign ICO Agency Operating Without License - Bitcoin News</h1><p>The Japanese financial regulator will be issuing its first warning since the legalization of cryptocurrencies as a method of payment in Japan. An overseas initial coin offering agency has reportedly been attracting Japanese investors without a license, repeatedly ignoring the agency&apos;s advice to cease operating in the country.</p><img src="https://news.bitcoin.com/wp-content/uploads/2018/02/FSA-warning-banner1.png"></article>]]></description>
-            <link>https://news.bitcoin.com/japan-cracks-foreign-ico-agency-operating-without-license/</link>
-            <guid isPermaLink="false">684921f5-b291-4de1-9904-9078a7fad14d</guid>
             <pubDate>Fri, 16 Feb 2018 14:35:48 GMT</pubDate>
         </item>
     </channel>
