@@ -4,9 +4,16 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Mar 2018 00:50:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Mar 2018 23:32:54 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 02 Mar 2018 00:50:36 GMT</pubDate>
+        <pubDate>Sat, 17 Mar 2018 23:32:52 GMT</pubDate>
+        <item>
+            <title><![CDATA[Crypto Canon]]></title>
+            <description><![CDATA[<article><h1>Crypto Canon</h1><p>Here&apos;s a list - building on and including Chris&apos; last roundup - of crypto readings and resources. It&apos;s organized from building blocks and basics; foundations (&amp; history); and key concepts - followed by specific topics such as governance; privacy and security; scaling; consensus; cryptoeconomics and investing; fundraising and token distribution; decentralized exchanges; stablecoins; and cryptoeconomic primitives (crytocollectibles, curation markets, games).</p><img src="https://i1.wp.com/s0.wp.com/wp-content/themes/vip/a16z-2015/static/images/a16z-logo.png?fit=440%2C330&ssl=1"></article>]]></description>
+            <link>http://a16z.com/2018/02/10/crypto-readings-resources/</link>
+            <guid isPermaLink="false">33a3b93a-02de-4cc8-ba27-7a82465a6469</guid>
+            <pubDate>Sat, 17 Mar 2018 23:32:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Stablecoins: designing a price-stable cryptocurrency]]></title>
             <description><![CDATA[<article><h1>Stablecoins: designing a price-stable cryptocurrency</h1><p>A useful currency should be a medium of exchange, a unit of account, and a store of value. Cryptocurrencies excel at the first, but as a store of value or unit of account, they&apos;re pretty bad. You cannot be an effective store of value if your price fluctuates by 20% on a normal day.</p><img src="https://cdn-images-1.medium.com/max/1200/1*PovHvcYtqeuKC8vXhZlrXg.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Bitcoin: Africa&apos;s first exchange aims for 1 billion users</h1><p>Luno, founded in South Africa in 2013, has plans to become one of the leading cryptocurrency traders in the world. CEO and founder Marcus Swanepoel has a goal that would leave many bigger companies in the shade: 1 billion customers by 2025.</p><img src="http://i2.cdn.turner.com/money/dam/assets/180126133327-africa-bitcoin-780x439.jpg"></article>]]></description>
             <link>http://money.cnn.com/2018/02/14/technology/bitcoin-luno-billion-users</link>
             <guid isPermaLink="false">8afb2da2-3eea-4e9a-9bd4-ab233691b4a5</guid>
-            <pubDate>Fri, 16 Feb 2018 14:35:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin, Ethereum, Bitcoin Cash, Ripple, Stellar, Litecoin, NEM, NEO, EOS: Price Analysis, February 2, 2018]]></title>
-            <description><![CDATA[<article><h1>Bitcoin, Ethereum, Bitcoin Cash, Ripple, Stellar, Litecoin, NEM, NEO, EOS: Price Analysis, February 2, 2018</h1><p>There are various reasons behind the panic currently gripping the crypto world - increased regulations, hacking, and crackdown by various governments. Additionally, the last leg of the rally looked frothy as traders gobbled up cryptocurrencies at crazy levels out of fear of missing out on the rally.</p><img src="https://cointelegraph.com/storage/uploads/view/8d3a81f02185989511bd0ed8e768cc0c.png"></article>]]></description>
-            <link>https://cointelegraph.com/news/bitcoin-ethereum-bitcoin-cash-ripple-stellar-litecoin-nem-neo-eos-price-analysis-february-2-2018</link>
-            <guid isPermaLink="false">30423861-95da-4827-a034-9969b6649041</guid>
             <pubDate>Fri, 16 Feb 2018 14:35:48 GMT</pubDate>
         </item>
     </channel>
