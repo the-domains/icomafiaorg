@@ -4,9 +4,16 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 17 Mar 2018 23:32:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Mar 2018 17:59:44 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 17 Mar 2018 23:32:52 GMT</pubDate>
+        <pubDate>Tue, 20 Mar 2018 17:59:42 GMT</pubDate>
+        <item>
+            <title><![CDATA[2017 year in review]]></title>
+            <description><![CDATA[<iframe src="https://drive.google.com/viewerng/viewer?url=https%3A//assets.coingecko.com/reports/2017-Year-in-Review-Cryptocurrency-Report-by-CoinGecko.pdf&embedded=true" width="600" height="780"></iframe>]]></description>
+            <link>https://assets.coingecko.com/reports/2017-Year-in-Review-Cryptocurrency-Report-by-CoinGecko.pdf</link>
+            <guid isPermaLink="false">905535f6-503f-4a3d-823f-e42f5bbb65b8</guid>
+            <pubDate>Tue, 20 Mar 2018 17:59:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Crypto Canon]]></title>
             <description><![CDATA[<article><h1>Crypto Canon</h1><p>Here&apos;s a list - building on and including Chris&apos; last roundup - of crypto readings and resources. It&apos;s organized from building blocks and basics; foundations (&amp; history); and key concepts - followed by specific topics such as governance; privacy and security; scaling; consensus; cryptoeconomics and investing; fundraising and token distribution; decentralized exchanges; stablecoins; and cryptoeconomic primitives (crytocollectibles, curation markets, games).</p><img src="https://i1.wp.com/s0.wp.com/wp-content/themes/vip/a16z-2015/static/images/a16z-logo.png?fit=440%2C330&ssl=1"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Ex-PayPal executive David Sacks explains how his new company will change crypto trading</h1><p>I interviewed David Sacks last August about his interest in cryptocurrency. His interest was well-founded as the whole asset class took off last fall. In a recent report by Axios, Sacks said he&apos;s raised a new venture fund with partner and well-known Silicon Valley angel investor Bill Lee.</p><img src="https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/08/14/104652209-sacks-handout.1910x1000.jpg"></article>]]></description>
             <link>https://www.cnbc.com/2018/02/06/ex-paypal-david-sacks-on-craft-fund-and-harbor.html</link>
             <guid isPermaLink="false">ad0cae55-1ff8-44c6-ac6d-004202abfc74</guid>
-            <pubDate>Fri, 16 Feb 2018 14:35:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bitcoin: Africa's first exchange aims for 1 billion users]]></title>
-            <description><![CDATA[<article><h1>Bitcoin: Africa&apos;s first exchange aims for 1 billion users</h1><p>Luno, founded in South Africa in 2013, has plans to become one of the leading cryptocurrency traders in the world. CEO and founder Marcus Swanepoel has a goal that would leave many bigger companies in the shade: 1 billion customers by 2025.</p><img src="http://i2.cdn.turner.com/money/dam/assets/180126133327-africa-bitcoin-780x439.jpg"></article>]]></description>
-            <link>http://money.cnn.com/2018/02/14/technology/bitcoin-luno-billion-users</link>
-            <guid isPermaLink="false">8afb2da2-3eea-4e9a-9bd4-ab233691b4a5</guid>
             <pubDate>Fri, 16 Feb 2018 14:35:48 GMT</pubDate>
         </item>
     </channel>
