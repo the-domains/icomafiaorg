@@ -4,9 +4,16 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 Apr 2018 19:19:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Apr 2018 19:20:40 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Apr 2018 19:19:41 GMT</pubDate>
+        <pubDate>Mon, 02 Apr 2018 19:20:38 GMT</pubDate>
+        <item>
+            <title><![CDATA[Designing for Blockchain: What's Different and What's at Stake]]></title>
+            <description><![CDATA[<article><h1>Designing for Blockchain: What&apos;s Different and What&apos;s at Stake</h1><p>How to design for trust around a &quot;trustless&quot; technology. Blockchain technology is redefining the concept of trust and transforming how we think about the structures of everyday life, from identity to economics, and government. It pushes designers to think systemically and at larger scales&hairsp;-&hairsp;redefining our role and value on teams that are committed to building the decentralized future.</p><img src="https://cdn-images-1.medium.com/max/2000/1*P8RsYs0rTVSZ8hz1N4R5Zw.png"></article>]]></description>
+            <link>https://media.consensys.net/designing-for-blockchain-whats-different-and-what-s-at-stake-b867eeade1c9?_lrsc=3990c634-aed3-466c-a2b4-23d8b604f831</link>
+            <guid isPermaLink="false">fab3ab53-0390-4017-a9a9-021dd74ac555</guid>
+            <pubDate>Mon, 02 Apr 2018 19:20:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What's next for the ICO? Reflections on Securities Law and the Future of Initial Coin Offerings | Crowdfund Insider]]></title>
             <description><![CDATA[<article><h1>What&apos;s next for the ICO? Reflections on Securities Law and the Future of Initial Coin Offerings | Crowdfund Insider</h1><p>To date, fundraising has been blockchain&apos;s killer app. In 2017, Initial Coin Offering (ICO) fundraising eclipsed that of traditional venture capital, and in 2018, ICOs have already raised nearly $3 billion in non-dilutive funding. This new form of early-stage financing is incredibly promising, at least in</p><img src="https://cdn.crowdfundinsider.com/wp-content/uploads/2018/04/US-Capitol-Washington-DC-Green-Light-Direction-Path.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://bitcoinist.com/smart-contracts-might-not-smart-think/</link>
             <guid isPermaLink="false">39cd193e-6c65-428f-9198-17cbf70a542f</guid>
             <pubDate>Tue, 27 Feb 2018 03:01:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Digital Currency and Blockchain: How are Financial Institutions Responding?]]></title>
-            <description><![CDATA[<article><h1>Digital Currency and Blockchain: How are Financial Institutions Responding?</h1><p>Perhaps the industry most obviously threatened by blockchain is banking and financial services. Digital currencies and blockchain platforms are by nature in the business of putting financial overlords out of business. If individuals and institutions can transact directly at a significantly lower cost due to the removal of exchange middlemen, then there is less of a need for traditional banks and other controllers of the money game.</p><img src="https://cdn-images-1.medium.com/max/2000/1*oWw1LbUgewXGY5uLrpI80A.jpeg"></article>]]></description>
-            <link>https://shift.newco.co/digital-currency-and-blockchain-how-are-financial-institutions-responding-71091b2772c3</link>
-            <guid isPermaLink="false">8bdba12f-de7a-44b6-9a90-d6af14d56fd9</guid>
-            <pubDate>Fri, 16 Feb 2018 19:40:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
