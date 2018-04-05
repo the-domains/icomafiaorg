@@ -4,9 +4,16 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 Apr 2018 19:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Apr 2018 16:24:07 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Apr 2018 19:20:38 GMT</pubDate>
+        <pubDate>Thu, 05 Apr 2018 16:24:05 GMT</pubDate>
+        <item>
+            <title><![CDATA[jpantunes/awesome-cryptoeconomics]]></title>
+            <description><![CDATA[<article><h1>jpantunes/awesome-cryptoeconomics</h1><p>awesome-cryptoeconomics - An awesome curated list of Cryptoeconomic research and learning materials</p><img src="https://avatars3.githubusercontent.com/u/26281423?s=400&v=4"></article>]]></description>
+            <link>https://github.com/jpantunes/awesome-cryptoeconomics</link>
+            <guid isPermaLink="false">c20cfb53-3d11-4e92-90c6-09fae5368106</guid>
+            <pubDate>Thu, 05 Apr 2018 16:24:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Designing for Blockchain: What's Different and What's at Stake]]></title>
             <description><![CDATA[<article><h1>Designing for Blockchain: What&apos;s Different and What&apos;s at Stake</h1><p>How to design for trust around a &quot;trustless&quot; technology. Blockchain technology is redefining the concept of trust and transforming how we think about the structures of everyday life, from identity to economics, and government. It pushes designers to think systemically and at larger scales&hairsp;-&hairsp;redefining our role and value on teams that are committed to building the decentralized future.</p><img src="https://cdn-images-1.medium.com/max/2000/1*P8RsYs0rTVSZ8hz1N4R5Zw.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.nytimes.com/2018/02/25/business/cryptocurrency-women-blockchain-bros.html</link>
             <guid isPermaLink="false">c8fcd889-337d-4d89-bd80-824adab13c5b</guid>
             <pubDate>Fri, 02 Mar 2018 00:50:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Smart Contracts Might Not Be as Smart as You Think]]></title>
-            <description><![CDATA[<article><h1>Smart Contracts Might Not Be as Smart as You Think</h1><p>Smart contracts are supposed to be just that: smart. However, some smart contracts currently circulating aren&apos;t quite making the grade - with vulnerabilities exposing millions of dollars worth of Ethereum to potential theft. Smart contracts are computer protocols meant to digitally facilitate, verify, or enforce the execution of contracts.</p><img src="http://bitcoinist.com/wp-content/uploads/2018/01/as-ethereum-dollar.jpg"></article>]]></description>
-            <link>http://bitcoinist.com/smart-contracts-might-not-smart-think/</link>
-            <guid isPermaLink="false">39cd193e-6c65-428f-9198-17cbf70a542f</guid>
-            <pubDate>Tue, 27 Feb 2018 03:01:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
