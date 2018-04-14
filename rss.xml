@@ -4,9 +4,16 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 Apr 2018 16:24:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Apr 2018 01:05:46 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Apr 2018 16:24:05 GMT</pubDate>
+        <pubDate>Sat, 14 Apr 2018 01:05:45 GMT</pubDate>
+        <item>
+            <title><![CDATA[Exit scammers run off with $660 million in ICO earnings]]></title>
+            <description><![CDATA[<article><img src="https://techcrunch.com/wp-content/uploads/2018/04/img_0734.jpg"><h1>Exit scammers run off with $660 million in ICO earnings</h1><p>A Vietnamese cryptocurrency company Modern Tech launched an ICO for its Pincoin token, raising $660 million from approximately 32,000 people. The company first ran the Pincoin ICO, promising constant returns to investors, and then launched another token, iFan (a social network token for celebrities).</p></article>]]></description>
+            <link>https://techcrunch.com/2018/04/13/exit-scammers-run-off-with-660-million-in-ico-earnings/</link>
+            <guid isPermaLink="false">ad6d4f4b-3e1e-4828-ac76-948dd3b867f8</guid>
+            <pubDate>Sat, 14 Apr 2018 01:05:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[jpantunes/awesome-cryptoeconomics]]></title>
             <description><![CDATA[<article><h1>jpantunes/awesome-cryptoeconomics</h1><p>awesome-cryptoeconomics - An awesome curated list of Cryptoeconomic research and learning materials</p><img src="https://avatars3.githubusercontent.com/u/26281423?s=400&v=4"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.ccn.com/atari-unveils-blockchain-fueled-dual-token-gaming-reboot/</link>
             <guid isPermaLink="false">36f8abf7-2bdb-4b8e-bf20-9414316d22fd</guid>
             <pubDate>Fri, 02 Mar 2018 00:50:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Women in Cryptocurrencies Push Back Against 'Blockchain Bros']]></title>
-            <description><![CDATA[<article><h1>Women in Cryptocurrencies Push Back Against &apos;Blockchain Bros&apos;</h1><p>That means the budding world is already in danger of looking like the rest of the technology industry, where women are decidedly a minority. Some studies estimate that women account for only 4 percent to 6 percent of blockchain investors.</p><img src="https://static01.nyt.com/images/2018/02/26/business/26CRYPTOWOMEN1/26CRYPTOWOMEN1-facebookJumbo.jpg"></article>]]></description>
-            <link>https://www.nytimes.com/2018/02/25/business/cryptocurrency-women-blockchain-bros.html</link>
-            <guid isPermaLink="false">c8fcd889-337d-4d89-bd80-824adab13c5b</guid>
-            <pubDate>Fri, 02 Mar 2018 00:50:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
