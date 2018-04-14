@@ -4,9 +4,23 @@
         <description><![CDATA[ICO Mafia]]></description>
         <link>http://icomafia.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 Apr 2018 01:05:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Apr 2018 01:05:53 GMT</lastBuildDate>
         <atom:link href="http://icomafia.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 14 Apr 2018 01:05:45 GMT</pubDate>
+        <pubDate>Sat, 14 Apr 2018 01:05:52 GMT</pubDate>
+        <item>
+            <title><![CDATA[SEC's Clayton: Use of a token can evolve toward or away from being a security | Coin Center]]></title>
+            <description><![CDATA[<article><h1>SEC&apos;s Clayton: Use of a token can evolve toward or away from being a security | Coin Center</h1><p>In recent remarks, the chairman took a pragmatic stance on token fundraising for decentralized networks. SEC Chairman Jay Clayton discussed his perspective on cryptocurrencies and token sales at a recent event at Princeton University.</p><img src="https://coincenter.org/thumbs/metatags/2018-04/clayton.png"></article>]]></description>
+            <link>https://coincenter.org/entry/sec-s-clayton-use-of-a-token-can-evolve-toward-or-away-from-being-a-security</link>
+            <guid isPermaLink="false">ebb79759-6e8d-4eb8-8122-aa731a92e329</guid>
+            <pubDate>Sat, 14 Apr 2018 01:05:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Finantsinspektsioon - Information for entities engaging with virtual currencies and ICOs]]></title>
+            <description><![CDATA[<article><h1>Finantsinspektsioon - Information for entities engaging with virtual currencies and ICOs</h1><p>Finantsinspektsioon</p><img src="http://www.fi.ee/extensions/fi/gfx/logo.png"></article>]]></description>
+            <link>http://www.fi.ee/index.php?id=22715</link>
+            <guid isPermaLink="false">b16fbf17-7861-46e0-aacc-4b4f2753835a</guid>
+            <pubDate>Sat, 14 Apr 2018 01:05:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Exit scammers run off with $660 million in ICO earnings]]></title>
             <description><![CDATA[<article><img src="https://techcrunch.com/wp-content/uploads/2018/04/img_0734.jpg"><h1>Exit scammers run off with $660 million in ICO earnings</h1><p>A Vietnamese cryptocurrency company Modern Tech launched an ICO for its Pincoin token, raising $660 million from approximately 32,000 people. The company first ran the Pincoin ICO, promising constant returns to investors, and then launched another token, iFan (a social network token for celebrities).</p></article>]]></description>
@@ -62,20 +76,6 @@
             <link>http://a16z.com/2018/02/10/crypto-readings-resources/</link>
             <guid isPermaLink="false">33a3b93a-02de-4cc8-ba27-7a82465a6469</guid>
             <pubDate>Sat, 17 Mar 2018 23:32:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stablecoins: designing a price-stable cryptocurrency]]></title>
-            <description><![CDATA[<article><h1>Stablecoins: designing a price-stable cryptocurrency</h1><p>A useful currency should be a medium of exchange, a unit of account, and a store of value. Cryptocurrencies excel at the first, but as a store of value or unit of account, they&apos;re pretty bad. You cannot be an effective store of value if your price fluctuates by 20% on a normal day.</p><img src="https://cdn-images-1.medium.com/max/1200/1*PovHvcYtqeuKC8vXhZlrXg.png"></article>]]></description>
-            <link>https://hackernoon.com/stablecoins-designing-a-price-stable-cryptocurrency-6bf24e2689e5</link>
-            <guid isPermaLink="false">303fb04f-d14d-48bd-acc0-b27dba1c1134</guid>
-            <pubDate>Fri, 02 Mar 2018 00:50:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Game Developer Atari Unveils Blockchain-Fueled Dual-Cryptocurrency Gaming Reboot]]></title>
-            <description><![CDATA[<article><h1>Game Developer Atari Unveils Blockchain-Fueled Dual-Cryptocurrency Gaming Reboot</h1><p>Get Trading Recommendations and Read Analysis on Hacked.com for just $39 per month. The video game console for hits like eighties favorite Pac-Man is readying a pair of digital tokens, which is likely to rack up points with investors. The Atari Group revealed a two-pronged initiative for which it has inked a couple of partnerships involving not one but two cryptocurrencies.</p><img src="https://www.ccn.com/wp-content/uploads/2018/02/Atari-console.jpg"></article>]]></description>
-            <link>https://www.ccn.com/atari-unveils-blockchain-fueled-dual-token-gaming-reboot/</link>
-            <guid isPermaLink="false">36f8abf7-2bdb-4b8e-bf20-9414316d22fd</guid>
-            <pubDate>Fri, 02 Mar 2018 00:50:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
